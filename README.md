@@ -18,7 +18,7 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
   * [2.5 MultiModal](#25-multimodal)
   * [2.6 Other Domains](#26-other-domains)
 * [3. Detection Tools](#3-detection-tools)
-  * [3.1 Detection Metrics](#31-detection-metrics)
+  * [3.1 Metrics](#31-metrics)
   * [3.2 Available Tools](#32-available-tools)
 
 ## 0. Survey
@@ -74,16 +74,20 @@ Data statistics of these resources:
 
    *Qihuang Zhong, Liang Ding,  Juhua Liu, Bo Du, Dacheng Tao.* [[abs](https://arxiv.org/abs/2302.10198)],[[github](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)], 2023.2
 
-2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.**
+2. **ChatGPT: Jack of all trades, master of none.**
 
-   *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie
-.* [[abs](https://arxiv.org/abs/2302.12095)],[[github](https://github.com/microsoft/robustlearn)], 2023.2
+   *Jan Kocoń , Igor Cichecki , Oliwier Kaszyca , Mateusz Kochanek , Dominika Szydło , Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak and Przemysław Kazienko.* [[abs](https://arxiv.org/abs/2302.10724)],[[github](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)], 2023.2
+  
 
 ### 2.2 Open-ended Generation
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
 
    *Terry Yue Zhuo, Yujin Huang , Chunyang Chen , Zhenchang Xing.* [[abs](https://arxiv.org/abs/2301.12867)], 2023.2
+ 
+2. **Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech.**
+
+   *Fan Huang, Haewoon Kwak, Jisun An.* [[abs](https://arxiv.org/abs/2302.07736)], 2023.2
 
 
 ### 2.3 Long Text Summarization
@@ -95,6 +99,13 @@ Data statistics of these resources:
 2. **Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?**
 
    *Shuai Wang, Harrisen Scells, Bevan Koopman, Guido Zuccon.* [[abs](https://arxiv.org/abs/2302.03495)], 2023.2
+   
+3. **ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports**
+
+   *Katharina Jeblick, Balthasar Schachtner, Jakob Dexl, Andreas Mittermeier, Anna Theresa Stüber, Johanna Topalis, Tobias Weber, Philipp Wesp, Bastian Sabel, Jens Ricke, Michael Ingrisch.* [[abs](https://arxiv.org/abs/2212.14882)], 2022.12
+     
+   
+   
 
 ### 2.4 Reasoning
 
@@ -142,11 +153,22 @@ Data statistics of these resources:
 1. **How Does ChatGPT Perform on the Medical Licensing Exams? The Implications of Large Language Models for Medical Education and Knowledge Assessment.**
 
    *Aidan Gilson, Conrad Safranek, Thomas Huang, Vimig Socrates, Ling Chi, R. Andrew Taylor, David Chartash.* [[pdf](https://www.medrxiv.org/content/10.1101/2022.12.23.22283901.full.pdf)], 2022.12
+   
+2. **Evaluating ChatGPT as an Adjunct for Radiologic Decision-Making.**
+
+   *Arya Rao, John Kim, Meghana Kamineni, Michael Pang, Winston Lie, Marc D. Succi.* [[pdf](https://www.medrxiv.org/content/medrxiv/early/2023/02/07/2023.02.02.23285399.full.pdf)], 2023.2
+   
+   
+#### Law
+
+1. **Chatgpt goes to law school**
+
+   *Teo Susnjak.* [[abs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335905)], 2023
 
 
 ## 3. Detection Tools
 
-### 3.1 Detection Metrics
+### 3.1 Metrics
 
 #### Metrics Before ChatGPT
 
@@ -157,6 +179,12 @@ Data statistics of these resources:
 2. **GPTScore: Evaluate as You Desire.**
 
    *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2302.04166)],[[github](https://github.com/jinlanfu/GPTScore)], 2023.2
+
+3. **MAUVE Scores for Generative Models: Theory and Practice.**
+
+   *Krishna Pillutla, Lang Liu, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.* [[abs](https://arxiv.org/abs/2212.14578)], 2022.12
+
+
 
 #### Metrics for detecting ChatGPT
 
