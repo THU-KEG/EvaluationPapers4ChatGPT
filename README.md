@@ -117,6 +117,10 @@ Data statistics of these resources:
 
    *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang.* [[abs](https://arxiv.org/abs/2302.06476)], 2023.2
 
+3. **A Categorical Archive of ChatGPT Failures.**
+
+   *Ali Borji.* [[abs](https://arxiv.org/abs/2302.03494)], 2023.2
+
 
 ### 2.5 Multimodal
 
