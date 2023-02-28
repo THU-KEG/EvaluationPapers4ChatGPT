@@ -1,9 +1,6 @@
 # EvaluationPaper4ChatGPT
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-![](https://img.shields.io/github/last-commit/THU-KEG/EvaluationPaper4ChatGPT?color=green) 
-![](https://img.shields.io/badge/PRs-Welcome-red) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)![](https://img.shields.io/github/last-commit/THU-KEG/EvaluationPaper4ChatGPT?color=green) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 
@@ -15,7 +12,7 @@ Resource, Evaluation and Detection Papers for ChatGPT
 
 1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.**
 
-   *Biyang Guo,  Xin Zhang , Ziyuan Wang, Minqi Jiang , Jinran Nie, Yuxuan Ding, Jianwei Yue , Yupeng Wu.* [[abs](https://arxiv.org/abs/2301.07597)],[[gitHub](https://link.zhihu.com/?target=https%3A//github.com/Hello-SimpleAI/chatgpt-comparison-detection)] 2023.1
+   *Biyang Guo,  Xin Zhang , Ziyuan Wang, Minqi Jiang , Jinran Nie, Yuxuan Ding, Jianwei Yue , Yupeng Wu.* [[abs](https://arxiv.org/abs/2301.07597)],[[github](https://link.zhihu.com/?target=https%3A//github.com/Hello-SimpleAI/chatgpt-comparison-detection)] 2023.1
 
    
 
