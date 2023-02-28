@@ -212,6 +212,6 @@ Statistics of these tools:
 |----------------|-------------------------------|-----------------------------|-----------------------------|
 |[**Hello-SimpleAI ChatGPT Detector**](https://hello-simpleai-chatgpt-detector-ling.hf.space/)       | ChatGPT       |en/zh          | (0,~1500] (512tokens)|
 |[**GPTZero**](https://gptzero.me/)         |LLM       | en|(250，♾️)|
-|**[OpenAI Classifier](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)**      | LLM|en|(0，25,000]|
-|**[Contentatscale AI Content Detector](https://contentatscale.ai/ai-content-detector/)**         | AI Content (NLP+SERP)|en|(0, 1,500]|
-|**[Writers AI Content Detector](https://writer.com/ai-content-detector/)**      | AI Content |en|(0，♾️)|
+|**[OpenAI Classifier](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)**      | LLM|en|(0，♾️)|
+|**[Contentatscale AI Content Detector](https://contentatscale.ai/ai-content-detector/)**         | AI Content (NLP+SERP)|en|(0，25,000]|
+|**[Writers AI Content Detector](https://writer.com/ai-content-detector/)**      | AI Content |en|(0, 1,500]|
