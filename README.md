@@ -6,31 +6,57 @@
 
 ### Introduction
 
-Resource, Evaluation and Detection Papers for ChatGPT
+This repository stores Resource, Evaluation and Detection Papers or Tools for ChatGPT
 
-## 0. Resource
+## 0. Survey
+1. **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT.**
+
+   *Ce Zhou, Qian Li, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, Cheng Ji, Qiben Yan, Lifang He, Hao Peng, Jianxin Li, Jia Wu, Ziwei Liu, Pengtao Xie, Caiming Xiong, Jian Pei, Philip S. Yu, Lichao Sun.* [[abs](https://arxiv.org/abs/2302.09419)], 2023.2
+
+
+## 1. Resource
 
 1. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.**
 
-   *Biyang Guo,  Xin Zhang , Ziyuan Wang, Minqi Jiang , Jinran Nie, Yuxuan Ding, Jianwei Yue , Yupeng Wu.* [[abs](https://arxiv.org/abs/2301.07597)],[[github](https://link.zhihu.com/?target=https%3A//github.com/Hello-SimpleAI/chatgpt-comparison-detection)] 2023.1
+   *Biyang Guo,  Xin Zhang , Ziyuan Wang, Minqi Jiang , Jinran Nie, Yuxuan Ding, Jianwei Yue , Yupeng Wu.* [[abs](https://arxiv.org/abs/2301.07597)],[[github](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)], 2023.1
 
+2. **ChatGPT: Jack of all trades, master of none.**
+
+   *Jan Kocoń , Igor Cichecki , Oliwier Kaszyca , Mateusz Kochanek , Dominika Szydło , Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak and Przemysław Kazienko.* [[abs](https://arxiv.org/abs/2302.10724)],[[github](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)], 2023.2
+
+3. **Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT.**
+
+   *Qihuang Zhong, Liang Ding,  Juhua Liu, Bo Du, Dacheng Tao.* [[abs](https://arxiv.org/abs/2302.10198)],[[github](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)], 2023.2
    
+4. **Is ChatGPT A Good Translator? A Preliminary Study.**
+
+   *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu.* [[abs](https://arxiv.org/abs/2301.08745v2)],[[github](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)], 2023.1
+   
+
 
 ## 2. Evaluation
 
-1. **ChatGPT: Jack of all trades, master of none.**
 
-   *Jan Kocoń , Igor Cichecki , Oliwier Kaszyca , Mateusz Kochanek , Dominika Szydło , Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak and Przemysław Kazienko.* [[abs](https://arxiv.org/abs/2302.10724)], 2023.2
+### 2.1 Metrics
 
-2. **Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT.**
+Before ChatGPT, metrics using GPT3:
 
-   *Qihuang Zhong, Liang Ding,  Juhua Liu, Bo Du, Dacheng Tao.* [[abs](https://arxiv.org/abs/2302.10198)], 2023.2
+1. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature.**
 
-3. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization.**
+   *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn.* [[abs](https://arxiv.org/abs/2301.11305)],[[demo](https://detectgpt.ericmitchell.ai/)], 2023.1
+
+2. **GPTScore: Evaluate as You Desire.**
+
+   *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2302.04166)],[[github](https://github.com/jinlanfu/GPTScore)], 2023.2
+
+
+### 2.2 Skill Analysis
+
+1. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization.**
 
    *Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng.* [[abs](https://arxiv.org/abs/2302.08081)], 2023.2
 
-4. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
+2. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
 
    *Terry Yue Zhuo, Yujin Huang , Chunyang Chen , Zhenchang Xing.* [[abs](https://arxiv.org/abs/2301.12867)], 2023.2
 
