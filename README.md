@@ -11,13 +11,15 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 * [0. Survey](#0-survey)
 * [1. Dataset Resource](#1-dataset-resource)
 * [2. Evaluation Papers](#2-evaluation-papers)
-  * [2.1 Metrics](#21-metrics)
+  * [2.1 Natrual Language Understanding](#21-natrual-language-understanding)
   * [2.2 Open-ended Generation](#22-open-ended-generation)
   * [2.3 Long Text Summarization](#23-long-text-summarization)
   * [2.4 Reasoning](#24-reasoning)
   * [2.5 MultiModal](#25-multimodal)
   * [2.6 Other Domains](#26-other-domains)
 * [3. Detection Tools](#3-detection-tools)
+  * [3.1 Detection Metrics](#31-detection-metrics)
+  * [3.2 Available Tools](#32-available-tools)
 
 ## 0. Survey
 1. **The Utility of ChatGPT as an Example of Large Language Models in Healthcare Education, Research and Practice: Systematic Review on the Future Perspectives and Potential Limitations.**
@@ -43,6 +45,11 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 
    *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu.* [[abs](https://arxiv.org/abs/2301.08745v2)],[[github](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)], 2023.1
    
+5. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.**
+
+   *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie
+.* [[abs](https://arxiv.org/abs/2302.12095)],[[github](https://github.com/microsoft/robustlearn)], 2023.2
+
 
 Data statistics of these resources:
 
@@ -52,6 +59,7 @@ Data statistics of these resources:
 |Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT          | sentiment analysis / Paraphrase / NLI         |475          |
 |ChatGPT: Jack of all trades, master of none         | 25 classification/ QA/reasoning  task|38,000|
 |Is ChatGPT A Good Translator? A Preliminary Study       | Translation|5,609|
+|On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective     | Robustness|2,237|
 
  
 
@@ -60,18 +68,16 @@ Data statistics of these resources:
 ## 2. Evaluation Papers
 
 
-### 2.1 Metrics
+### 2.1 Natrual Language Understanding
 
-#### Before ChatGPT, metrics using GPT3
+1. **Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT.**
 
-1. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature.**
+   *Qihuang Zhong, Liang Ding,  Juhua Liu, Bo Du, Dacheng Tao.* [[abs](https://arxiv.org/abs/2302.10198)],[[github](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT)], 2023.2
 
-   *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn.* [[abs](https://arxiv.org/abs/2301.11305)],[[demo](https://detectgpt.ericmitchell.ai/)], 2023.1
+2. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.**
 
-2. **GPTScore: Evaluate as You Desire.**
-
-   *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2302.04166)],[[github](https://github.com/jinlanfu/GPTScore)], 2023.2
-
+   *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie
+.* [[abs](https://arxiv.org/abs/2302.12095)],[[github](https://github.com/microsoft/robustlearn)], 2023.2
 
 ### 2.2 Open-ended Generation
 
@@ -107,6 +113,9 @@ Data statistics of these resources:
 
    *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[abs](https://arxiv.org/abs/2302.04023)], 2023.2
 
+2. **A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning**
+
+   *Zhisheng Tang, Mayank Kejriwal.* [[abs](https://arxiv.org/abs/2302.09068)], 2023.2
 
 
 
@@ -114,11 +123,15 @@ Data statistics of these resources:
 
 #### Education
 
-1. **ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?**
+1. **ChatGPT: The End of Online Exam Integrity?**
+
+   *Teo Susnjak.* [[abs](https://arxiv.org/abs/2212.09292)], 2022.12
+   
+2. **ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?**
 
    *Jürgen Rudolph, Samson Tan, Shannon Tan.* [[pdf](https://journals.sfu.ca/jalt/index.php/jalt/article/download/689/539)], 2023.1
    
-2. **Will ChatGPT get you caught? Rethinking of Plagiarism Detection**
+3. **Will ChatGPT get you caught? Rethinking of Plagiarism Detection**
 
    *Mohammad Khalil, Erkan Er.* [[abs](https://arxiv.org/abs/2302.04335)], 2023.2
 
@@ -132,6 +145,27 @@ Data statistics of these resources:
 
 
 ## 3. Detection Tools
+
+### 3.1 Detection Metrics
+
+#### Metrics Before ChatGPT
+
+1. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature.**
+
+   *Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn.* [[abs](https://arxiv.org/abs/2301.11305)],[[demo](https://detectgpt.ericmitchell.ai/)], 2023.1
+
+2. **GPTScore: Evaluate as You Desire.**
+
+   *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2302.04166)],[[github](https://github.com/jinlanfu/GPTScore)], 2023.2
+
+#### Metrics for detecting ChatGPT
+
+1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
+
+   *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2301.10416)], 2023.1
+
+
+### 3.2 Available Tools
 
 1. [**GPTZero**](https://gptzero.me/): A demo to detect writings generated by ChatGPT. The creator has seen that the technology was used by students to cheat on assignments, so he came up with a safeguard. 
 2. [**Hello-SimpleAI ChatGPT Detector**](https://hello-simpleai-chatgpt-detector-ling.hf.space/):  An open-source detection project consists of three versions of models to detect text generated with ChatGPT, including [QA version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-qa), [Sinlge-text version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-single) and [Linguistic version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-ling).
