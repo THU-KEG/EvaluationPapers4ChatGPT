@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This repository stores Dataset Resources, Evaluation Papers and Detection Tools or Tools for ChatGPT
+This repository stores Dataset Resources, Evaluation Papers and Detection Tools for ChatGPT.
 
 * [0. Survey](#0-survey)
 * [1. Dataset Resource](#1-dataset-resource)
