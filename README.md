@@ -9,9 +9,9 @@
 This repository stores Resource, Evaluation and Detection Papers or Tools for ChatGPT
 
 ## 0. Survey
-1. **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT.**
+1. **The Utility of ChatGPT as an Example of Large Language Models in Healthcare Education, Research and Practice: Systematic Review on the Future Perspectives and Potential Limitations.**
 
-   *Ce Zhou, Qian Li, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, Cheng Ji, Qiben Yan, Lifang He, Hao Peng, Jianxin Li, Jia Wu, Ziwei Liu, Pengtao Xie, Caiming Xiong, Jian Pei, Philip S. Yu, Lichao Sun.* [[abs](https://arxiv.org/abs/2302.09419)], 2023.2
+   *Malik Sallam.* [[pdf](https://www.medrxiv.org/content/medrxiv/early/2023/02/21/2023.02.19.23286155.full.pdf)], 2023.2
 
 
 ## 1. Resource
@@ -39,7 +39,7 @@ This repository stores Resource, Evaluation and Detection Papers or Tools for Ch
 
 ### 2.1 Metrics
 
-Before ChatGPT, metrics using GPT3:
+#### Before ChatGPT, metrics using GPT3
 
 1. **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature.**
 
@@ -50,16 +50,39 @@ Before ChatGPT, metrics using GPT3:
    *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2302.04166)],[[github](https://github.com/jinlanfu/GPTScore)], 2023.2
 
 
-### 2.2 Skill Analysis
+### 2.2 Skill Analysis in NLP
 
+#### Ethics
+
+1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
+
+   *Terry Yue Zhuo, Yujin Huang , Chunyang Chen , Zhenchang Xing.* [[abs](https://arxiv.org/abs/2301.12867)], 2023.2
+
+
+#### Long Text
+   
 1. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization.**
 
    *Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng.* [[abs](https://arxiv.org/abs/2302.08081)], 2023.2
 
-2. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
+2. **Can ChatGPT Write a Good Boolean Query for Systematic Review Literature Search?**
 
-   *Terry Yue Zhuo, Yujin Huang , Chunyang Chen , Zhenchang Xing.* [[abs](https://arxiv.org/abs/2301.12867)], 2023.2
+   *Shuai Wang, Harrisen Scells, Bevan Koopman, Guido Zuccon.* [[abs](https://arxiv.org/abs/2302.03495)], 2023.2
 
+
+### 2.3 Compact on Other Domains
+
+#### Education
+
+1. **ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?**
+
+   *Jürgen Rudolph, Samson Tan, Shannon Tan.* [[pdf](https://journals.sfu.ca/jalt/index.php/jalt/article/download/689/539)], 2023.1
+
+#### Biology
+
+1. **How Does ChatGPT Perform on the Medical Licensing Exams? The Implications of Large Language Models for Medical Education and Knowledge Assessment.**
+
+   *Aidan Gilson, Conrad Safranek, Thomas Huang, Vimig Socrates, Ling Chi, R. Andrew Taylor, David Chartash.* [[pdf](https://www.medrxiv.org/content/10.1101/2022.12.23.22283901.full.pdf)], 2022.12
 
 
 ## 3. Detection
