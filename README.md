@@ -11,12 +11,13 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 * [0. Survey](#0-survey)
 * [1. Dataset Resource](#1-dataset-resource)
 * [2. Evaluation Papers](#2-evaluation-papers)
-  * [2.1 Natrual Language Understanding](#21-natrual-language-understanding)
+  * [2.1 Natural Language Understanding](#21-natural-language-understanding)
   * [2.2 Open-ended Generation](#22-open-ended-generation)
   * [2.3 Long Text Summarization](#23-long-text-summarization)
   * [2.4 Reasoning](#24-reasoning)
   * [2.5 MultiModal](#25-multimodal)
-  * [2.6 Other Domains](#26-other-domains)
+  * [2.6 Information Extraction](#26-information-extraction)
+  * [2.7 Other Domains](#27-other-domains)
 * [3. Detection Tools](#3-detection-tools)
   * [3.1 Metrics](#31-metrics)
   * [3.2 Available Tools](#32-available-tools)
@@ -72,7 +73,7 @@ Data statistics of these resources:
 ## 2. Evaluation Papers
 
 
-### 2.1 Natrual Language Understanding
+### 2.1 Natural Language Understanding
 
 1. **Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT.**
 
@@ -142,8 +143,15 @@ Data statistics of these resources:
    *Zhisheng Tang, Mayank Kejriwal.* [[abs](https://arxiv.org/abs/2302.09068)], 2023.2
 
 
+### 2.6 Information Extraction
 
-### 2.6 Other Domains
+1. **Zero-Shot Information Extraction via Chatting with ChatGPT**
+
+   *Xiang Wei, Xingyu Cui, Ning Cheng, Xiaobin Wang, Xin Zhang, Shen Huang, Pengjun Xie, Jinan Xu, Yufeng Chen, Meishan Zhang, Yong Jiang, Wenjuan Han.* [[abs](https://arxiv.org/abs/2302.10205)][[github](https://github.com/cocacola-lab/GPT4IE)][[demo](https://cocacola-lab.github.io/GPT4IE/)], 2023.2
+   
+   
+
+### 2.7 Other Domains
 
 #### Education
 
@@ -207,7 +215,7 @@ Data statistics of these resources:
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
 
-   *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu.* [[abs](https://arxiv.org/abs/2301.10416)], 2023.1
+   *Yongqiang Ma, Jiawei Liu, Fan Yi, Qikai Cheng, Yong Huang, Wei Lu, Xiaozhong Liu.* [[abs](https://arxiv.org/abs/2301.10416)], 2023.1
 
 
 ### 3.2 Available Tools
