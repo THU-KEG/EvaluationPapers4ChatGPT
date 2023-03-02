@@ -105,11 +105,13 @@ Data statistics of these resources:
 
    *Shuai Wang, Harrisen Scells, Bevan Koopman, Guido Zuccon.* [[abs](https://arxiv.org/abs/2302.03495)], 2023.2
    
-3. **ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports**
+3. **ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports.**
 
    *Katharina Jeblick, Balthasar Schachtner, Jakob Dexl, Andreas Mittermeier, Anna Theresa Stüber, Johanna Topalis, Tobias Weber, Philipp Wesp, Bastian Sabel, Jens Ricke, Michael Ingrisch.* [[abs](https://arxiv.org/abs/2212.14882)], 2022.12
      
-   
+4. **Cross-Lingual Summarization via ChatGPT.**
+
+   *Jiaan Wang, Yunlong Liang, Fandong Meng, Zhixu Li, Jianfeng Qu, Jie Zhou.* [[abs](https://arxiv.org/abs/2302.14229)], 2023.2
    
 
 ### 2.4 Reasoning
@@ -209,6 +211,12 @@ Data statistics of these resources:
 
    *Krishna Pillutla, Lang Liu, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.* [[abs](https://arxiv.org/abs/2212.14578)], 2022.12
 
+
+#### Using ChatGPT as evaluation metric
+
+1. **Large Language Models Are State-of-the-Art Evaluators of Translation Quality.**
+
+   *Tom Kocmi, Christian Federmann.* [[abs](https://arxiv.org/abs/2302.14520)], 2023.2
 
 
 #### Metrics for detecting ChatGPT
