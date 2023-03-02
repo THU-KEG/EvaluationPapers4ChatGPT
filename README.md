@@ -84,6 +84,10 @@ Data statistics of these resources:
 2. **ChatGPT: Jack of all trades, master of none.**
 
    *Jan Kocoń , Igor Cichecki , Oliwier Kaszyca , Mateusz Kochanek , Dominika Szydło , Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak and Przemysław Kazienko.* [[abs](https://arxiv.org/abs/2302.10724)],[[github](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)], 2023.2
+   
+3. **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks.**
+
+   *Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, Minlong Peng, Jie Zhou, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2303.00293)], 2023.3
 
 
 ### 2.2 Open-ended Generation
@@ -218,7 +222,7 @@ Data statistics of these resources:
 
 1. **Large Language Models Are State-of-the-Art Evaluators of Translation Quality.**
 
-   *Tom Kocmi, Christian Federmann.* [[abs](https://arxiv.org/abs/2302.14520)], 2023.2
+   *Tom Kocmi, Christian Federmann.* [[abs](https://arxiv.org/abs/2302.14520)],[[github](https://github.com/MicrosoftTranslator/GEMBA)], 2023.2
 
 
 #### Metrics for detecting ChatGPT
