@@ -1,3 +1,5 @@
+<img src="papers.png" style="zoom:67%;" />
+
 # Evaluation Papers for ChatGPT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/github/last-commit/THU-KEG/EvaluationPaper4ChatGPT?color=green) ![](https://img.shields.io/badge/PRs-Welcome-red) 
@@ -66,7 +68,7 @@ Data statistics of these resources:
 |Is ChatGPT A Good Translator? A Preliminary Study       | Translation|5,609|
 |On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective     | Robustness|2,237|
 |An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP).     | Reasoning|1,000|
- 
+
 
 
 
@@ -82,21 +84,21 @@ Data statistics of these resources:
 2. **ChatGPT: Jack of all trades, master of none.**
 
    *Jan Kocoń , Igor Cichecki , Oliwier Kaszyca , Mateusz Kochanek , Dominika Szydło , Joanna Baran, Julita Bielaniewicz, Marcin Gruza, Arkadiusz Janz, Kamil Kanclerz, Anna Kocoń, Bartłomiej Koptyra, Wiktoria Mieleszczenko-Kowszewicz, Piotr Miłkowski, Marcin Oleksy, Maciej Piasecki, Łukasz Radliński, Konrad Wojtasik, Stanisław Woźniak and Przemysław Kazienko.* [[abs](https://arxiv.org/abs/2302.10724)],[[github](https://github.com/CLARIN-PL/chatgpt-evaluation-01-2023)], 2023.2
-  
+
 
 ### 2.2 Open-ended Generation
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
 
    *Terry Yue Zhuo, Yujin Huang , Chunyang Chen , Zhenchang Xing.* [[abs](https://arxiv.org/abs/2301.12867)], 2023.2
- 
+
 2. **Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech.**
 
    *Fan Huang, Haewoon Kwak, Jisun An.* [[abs](https://arxiv.org/abs/2302.07736)], 2023.2
 
 
 ### 2.3 Long Text Summarization
-   
+
 1. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization.**
 
    *Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng.* [[abs](https://arxiv.org/abs/2302.08081)], 2023.2
@@ -108,7 +110,7 @@ Data statistics of these resources:
 3. **ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports.**
 
    *Katharina Jeblick, Balthasar Schachtner, Jakob Dexl, Andreas Mittermeier, Anna Theresa Stüber, Johanna Topalis, Tobias Weber, Philipp Wesp, Bastian Sabel, Jens Ricke, Michael Ingrisch.* [[abs](https://arxiv.org/abs/2212.14882)], 2022.12
-     
+   
 4. **Cross-Lingual Summarization via ChatGPT.**
 
    *Jiaan Wang, Yunlong Liang, Fandong Meng, Zhixu Li, Jianfeng Qu, Jie Zhou.* [[abs](https://arxiv.org/abs/2302.14229)], 2023.2
