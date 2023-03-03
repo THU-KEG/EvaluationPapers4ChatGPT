@@ -192,6 +192,22 @@ Data statistics of these resources:
    *Guido Zuccon, Bevan Koopman.* [[abs](https://arxiv.org/abs/2302.13793)], 2023.2
 
 
+#### Psychology
+
+
+1. **Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective.**
+
+   *Xingxuan Li, Yutong Li, Linlin Liu, Lidong Bing, Shafiq Joty.* [[abs](https://arxiv.org/abs/2212.10529)], 2022.12
+
+2. **Theory of Mind May Have Spontaneously Emerged in Large Language Models.**
+
+   *Michal Kosinski.* [[abs](https://arxiv.org/abs/2302.02083)], 2023.2
+
+3. **Can ChatGPT Assess Human Personalities? A General Evaluation Framework.**
+
+   *Haocong Rao, Cyril Leung, Chunyan Miao.* [[abs](https://arxiv.org/abs/2303.01248)][[github](https://github.com/Kali-Hac/ChatGPT-MBTI)], 2023.3
+   
+
 #### Law
 
 1. **Chatgpt goes to law school**
