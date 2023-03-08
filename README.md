@@ -207,6 +207,9 @@ Data statistics of these resources:
 
    *Haocong Rao, Cyril Leung, Chunyan Miao.* [[abs](https://arxiv.org/abs/2303.01248)][[github](https://github.com/Kali-Hac/ChatGPT-MBTI)], 2023.3
    
+4. **Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT.**
+
+   *Mostafa M. Amin, Erik Cambria, Björn W. Schuller.* [[abs](https://arxiv.org/abs/2303.03186)], 2023.3
 
 #### Law
 
