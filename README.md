@@ -153,11 +153,14 @@ Data statistics of these resources:
 
 ### 2.6 Information Extraction
 
-1. **Zero-Shot Information Extraction via Chatting with ChatGPT**
+1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
 
    *Xiang Wei, Xingyu Cui, Ning Cheng, Xiaobin Wang, Xin Zhang, Shen Huang, Pengjun Xie, Jinan Xu, Yufeng Chen, Meishan Zhang, Yong Jiang, Wenjuan Han.* [[abs](https://arxiv.org/abs/2302.10205)][[github](https://github.com/cocacola-lab/GPT4IE)][[demo](https://cocacola-lab.github.io/GPT4IE/)], 2023.2
    
-   
+2. **Exploring the Feasibility of ChatGPT for Event Extraction.**
+
+   *Jun Gao, Huan Zhao, Changlong Yu, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2303.03836)], 2023.3
+
 
 ### 2.7 Other Domains
 
@@ -242,6 +245,11 @@ Data statistics of these resources:
 1. **Large Language Models Are State-of-the-Art Evaluators of Translation Quality.**
 
    *Tom Kocmi, Christian Federmann.* [[abs](https://arxiv.org/abs/2302.14520)],[[github](https://github.com/MicrosoftTranslator/GEMBA)], 2023.2
+
+2. **Is ChatGPT a Good NLG Evaluator? A Preliminary Study.**
+
+   *Jiaan Wang, Yunlong Liang, Fandong Meng, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, Jie Zhou.* [[abs](https://arxiv.org/abs/2303.04048)],[[github](https://github.com/krystalan/chatgpt_as_nlg_evaluator)], 2023.3
+
 
 
 #### Metrics for detecting ChatGPT
