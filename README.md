@@ -161,6 +161,9 @@ Data statistics of these resources:
 
    *Jun Gao, Huan Zhao, Changlong Yu, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2303.03836)], 2023.3
 
+3. **Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering -- Example of ChatGPT.**
+
+   *Maciej P. Polak, Dane Morgan.* [[abs](https://arxiv.org/abs/2303.05352)], 2023.3
 
 ### 2.7 Other Domains
 
@@ -174,11 +177,13 @@ Data statistics of these resources:
 
    *Jürgen Rudolph, Samson Tan, Shannon Tan.* [[pdf](https://journals.sfu.ca/jalt/index.php/jalt/article/download/689/539)], 2023.1
    
-3. **Will ChatGPT get you caught? Rethinking of Plagiarism Detection**
+3. **Will ChatGPT get you caught? Rethinking of Plagiarism Detection.**
 
    *Mohammad Khalil, Erkan Er.* [[abs](https://arxiv.org/abs/2302.04335)], 2023.2
 
- 
+4. **Seeing ChatGPT Through Students' Eyes: An Analysis of TikTok Data.**
+
+   *Anna-Carolina Haensch, Sarah Ball, Markus Herklotz, Frauke Kreuter.* [[abs](https://arxiv.org/abs/2303.05349)], 2023.3
 
 #### Biology
 
