@@ -88,6 +88,10 @@ Data statistics of these resources:
 3. **How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks.**
 
    *Xuanting Chen, Junjie Ye, Can Zu, Nuo Xu, Rui Zheng, Minlong Peng, Jie Zhou, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2303.00293)], 2023.3
+   
+4. **Consistency Analysis of ChatGPT.**
+
+   *Myeongjun Jang, Thomas Lukasiewicz.* [[abs](https://arxiv.org/abs/2303.06273)], 2023.3
 
 
 ### 2.2 Open-ended Generation
