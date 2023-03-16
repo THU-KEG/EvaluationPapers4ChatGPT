@@ -57,6 +57,10 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 
    *Paulo Shakarian, Abhinav Koyyalamudi, Noel Ngu, Lakshmivihari Mareedu.* [[abs](https://arxiv.org/abs/2302.13814)][[github](https://github.com/lab-v2/ChatGPT_MWP_eval)], 2023.2
 
+7. **Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions.**
+
+   *Yiming Tan, Dehai Min, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, Guilin Qi.* [[abs](https://arxiv.org/abs/2303.07992)][[github](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-ChatGPT)], 2023.3
+
 
 Data statistics of these resources:
 
@@ -68,7 +72,7 @@ Data statistics of these resources:
 |Is ChatGPT A Good Translator? A Preliminary Study       | Translation|5,609|
 |On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective     | Robustness|2,237|
 |An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP).     | Reasoning|1,000|
-
+|Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions.     | Complex QA|194,782|
 
 
 
@@ -92,6 +96,11 @@ Data statistics of these resources:
 4. **Consistency Analysis of ChatGPT.**
 
    *Myeongjun Jang, Thomas Lukasiewicz.* [[abs](https://arxiv.org/abs/2303.06273)], 2023.3
+
+5. **Does ChatGPT resemble humans in language use?**
+
+   *Zhenguang G. Cai, David A. Haslett, Xufeng Duan, Shuqi Wang, Martin J. Pickering.* [[abs](https://arxiv.org/abs/2303.08014)], 2023.3
+
 
 
 ### 2.2 Open-ended Generation
@@ -259,6 +268,9 @@ Data statistics of these resources:
 
    *Jiaan Wang, Yunlong Liang, Fandong Meng, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu, Jie Zhou.* [[abs](https://arxiv.org/abs/2303.04048)],[[github](https://github.com/krystalan/chatgpt_as_nlg_evaluator)], 2023.3
 
+3. **Exploring ChatGPT's Ability to Rank Content: A Preliminary Study on Consistency with Human Preferences.**
+
+   *Yunjie Ji, Yan Gong, Yiping Peng, Chao Ni, Peiyan Sun, Dongyu Pan, Baochang Ma, Xiangang Li.* [[abs](https://arxiv.org/abs/2303.07610)], 2023.3
 
 
 #### Metrics for detecting ChatGPT
