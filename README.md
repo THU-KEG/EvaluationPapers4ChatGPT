@@ -5,6 +5,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/github/last-commit/THU-KEG/EvaluationPaper4ChatGPT?color=green) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
+### News
+
+- 2023/03/15: OpenAI release a [report](https://arxiv.org/pdf/2303.08774.pdf) for gpt4, which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
+
 
 ### Introduction
 
@@ -211,6 +215,10 @@ Data statistics of these resources:
 3. **Dr ChatGPT, tell me what I want to hear: How prompt knowledge impacts health answer correctness.**
 
    *Guido Zuccon, Bevan Koopman.* [[abs](https://arxiv.org/abs/2302.13793)], 2023.2
+
+4. **ChatGPT NCCN evaluation.**
+
+   *Shan Chen, et al.* [[github](https://github.com/AIM-Harvard/ChatGPT_NCCN)], 2023.3
 
 
 #### Psychology
