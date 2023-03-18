@@ -7,7 +7,7 @@
 
 ### News
 
-- 2023/03/15: OpenAI release a [report](https://arxiv.org/pdf/2303.08774.pdf) for gpt4, which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
+- 2023/03/15: OpenAI released [gpt4](https://arxiv.org/pdf/2303.08774.pdf), which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
 
 
 ### Introduction
@@ -202,6 +202,11 @@ Data statistics of these resources:
 
    *Anna-Carolina Haensch, Sarah Ball, Markus Herklotz, Frauke Kreuter.* [[abs](https://arxiv.org/abs/2303.05349)], 2023.3
 
+5. **ChatGPT Participates in a Computer Science Exam.**
+
+   *Sebastian Bordt, Ulrike von Luxburg.* [[abs](https://arxiv.org/abs/2303.09461)][[github](https://github.com/tml-tuebingen/chatgpt-algorithm-exam)], 2023.3
+   
+
 #### Biology
 
 1. **How Does ChatGPT Perform on the Medical Licensing Exams? The Implications of Large Language Models for Medical Education and Knowledge Assessment.**
@@ -220,6 +225,9 @@ Data statistics of these resources:
 
    *Shan Chen, et al.* [[github](https://github.com/AIM-Harvard/ChatGPT_NCCN)], 2023.3
 
+5. **Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential.**
+
+   *Qing Lyu, Josh Tan, Mike E. Zapadka, Janardhana Ponnatapuram, Chuang Niu, Ge Wang, Christopher T. Whitlow.* [[abs](https://arxiv.org/abs/2303.09038)], 2023.3
 
 #### Psychology
 
