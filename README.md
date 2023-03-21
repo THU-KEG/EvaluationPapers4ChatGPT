@@ -105,6 +105,10 @@ Data statistics of these resources:
 
    *Zhenguang G. Cai, David A. Haslett, Xufeng Duan, Shuqi Wang, Martin J. Pickering.* [[abs](https://arxiv.org/abs/2303.08014)], 2023.3
 
+6. **A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models.**
+
+   *Junjie Ye, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2303.10420)], 2023.3
+
 
 
 ### 2.2 Open-ended Generation
