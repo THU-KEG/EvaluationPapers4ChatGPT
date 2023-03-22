@@ -121,6 +121,10 @@ Data statistics of these resources:
 
    *Fan Huang, Haewoon Kwak, Jisun An.* [[abs](https://arxiv.org/abs/2302.07736)], 2023.2
 
+3. **Chinese Intermediate English Learners outdid ChatGPT in deep cohesion: Evidence from English narrative writing.**
+
+   *Tongquan Zhou, Siyi Cao, Siruo Zhou, Yao Zhang, Aijing He.* [[abs](https://arxiv.org/abs/2303.11812)], 2023.3
+
 
 ### 2.3 Long Text Summarization
 
@@ -159,7 +163,9 @@ Data statistics of these resources:
 
    *Paulo Shakarian, Abhinav Koyyalamudi, Noel Ngu, Lakshmivihari Mareedu.* [[abs](https://arxiv.org/abs/2302.13814)][[github](https://github.com/lab-v2/ChatGPT_MWP_eval)], 2023.2
 
+5. **Mind meets machine: Unravelling GPT-4's cognitive psychology.**
 
+   *Sifatkaur, Manmeet Singh, Vaisakh SB, Neetiraj Malviya.* [[abs](https://arxiv.org/abs/2303.11436)], 2023.3
 
 ### 2.5 Multimodal
 
@@ -167,9 +173,13 @@ Data statistics of these resources:
 
    *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[abs](https://arxiv.org/abs/2302.04023)], 2023.2
 
-2. **A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning**
+2. **A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning.**
 
    *Zhisheng Tang, Mayank Kejriwal.* [[abs](https://arxiv.org/abs/2302.09068)], 2023.2
+
+3. **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action.**
+
+   *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[abs](https://arxiv.org/abs/2303.11381)], 2023.3
 
 
 ### 2.6 Information Extraction
