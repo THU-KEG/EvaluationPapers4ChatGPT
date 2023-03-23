@@ -109,6 +109,9 @@ Data statistics of these resources:
 
    *Junjie Ye, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang.* [[abs](https://arxiv.org/abs/2303.10420)], 2023.3
 
+7. **Can we trust the evaluation on ChatGPT?**
+
+   *Rachith Aiyappa, Jisun An, Haewoon Kwak, Yong-Yeol Ahn.* [[abs](https://arxiv.org/abs/2303.12767)], 2023.3
 
 
 ### 2.2 Open-ended Generation
@@ -181,6 +184,9 @@ Data statistics of these resources:
 
    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* [[abs](https://arxiv.org/abs/2303.11381)], 2023.3
 
+4. **Sparks of Artificial General Intelligence: Early experiments with GPT-4.**
+
+   *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang.* [[abs](https://arxiv.org/abs/2303.12712)], 2023.3
 
 ### 2.6 Information Extraction
 
