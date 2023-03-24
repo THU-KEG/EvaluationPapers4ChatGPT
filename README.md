@@ -241,9 +241,9 @@ Data statistics of these resources:
 
    *Guido Zuccon, Bevan Koopman.* [[abs](https://arxiv.org/abs/2302.13793)], 2023.2
 
-4. **ChatGPT NCCN evaluation.**
+4. **The utility of ChatGPT for cancer treatment information.**
 
-   *Shan Chen, et al.* [[github](https://github.com/AIM-Harvard/ChatGPT_NCCN)], 2023.3
+   *Shan Chen, Benjamin H Kann, Michael B Foote, Hugo JWL Aerts, Guergana K Savova, Raymond H Mak, Danielle S Bitterman.* [[abs](https://www.medrxiv.org/content/10.1101/2023.03.16.23287316v1)],[[github](https://github.com/AIM-Harvard/ChatGPT_NCCN)], 2023.3
 
 5. **Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential.**
 
