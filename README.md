@@ -148,6 +148,8 @@ Data statistics of these resources:
    *Jiaan Wang, Yunlong Liang, Fandong Meng, Zhixu Li, Jianfeng Qu, Jie Zhou.* [[abs](https://arxiv.org/abs/2302.14229)], 2023.2
    
 
+
+
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
@@ -169,6 +171,11 @@ Data statistics of these resources:
 5. **Mind meets machine: Unravelling GPT-4's cognitive psychology.**
 
    *Sifatkaur, Manmeet Singh, Vaisakh SB, Neetiraj Malviya.* [[abs](https://arxiv.org/abs/2303.11436)], 2023.3
+   
+6. **Capabilities of GPT-4 on Medical Challenge Problems.**
+
+   *Harsha Nori, Nicholas King, Scott Mayer McKinney, Dean Carignan, Eric Horvitz.* [[abs](https://arxiv.org/abs/2303.13375)], 2023.3
+     
 
 ### 2.5 Multimodal
 
@@ -188,6 +195,10 @@ Data statistics of these resources:
 
    *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang.* [[abs](https://arxiv.org/abs/2303.12712)], 2023.3
 
+5. **GesGPT: Speech Gesture Synthesis With Text Parsing from GPT.**
+
+   *Nan Gao, Zeyu Zhao, Zhi Zeng, Shuwu Zhang, Dongdong Weng.* [[abs](https://arxiv.org/abs/2303.13013)], 2023.3
+
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -201,6 +212,11 @@ Data statistics of these resources:
 3. **Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering -- Example of ChatGPT.**
 
    *Maciej P. Polak, Dane Morgan.* [[abs](https://arxiv.org/abs/2303.05352)], 2023.3
+
+4. **Is ChatGPT A Good Keyphrase Generator? A Preliminary Study.**
+
+   *Mingyang Song, Haiyun Jiang, Shuming Shi, Songfang Yao, Shilong Lu, Yi Feng, Huafeng Liu, Liping Jing.* [[abs](https://arxiv.org/abs/2303.13001)], 2023.3
+   
 
 ### 2.7 Other Domains
 
