@@ -121,6 +121,10 @@ Data statistics of these resources:
 
    *Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao, Michael Lyu.* [[abs](https://arxiv.org/abs/2303.13648)], 2023.3
 
+10. **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks.**
+
+   *Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli.* [[abs](https://arxiv.org/abs/2303.15056)], 2023.3
+
 
 ### 2.2 Open-ended Generation
 
@@ -183,7 +187,11 @@ Data statistics of these resources:
 6. **Capabilities of GPT-4 on Medical Challenge Problems.**
 
    *Harsha Nori, Nicholas King, Scott Mayer McKinney, Dean Carignan, Eric Horvitz.* [[abs](https://arxiv.org/abs/2303.13375)], 2023.3
-     
+ 
+7. **GPT is becoming a Turing machine: Here are some ways to program it.**
+
+   *Ana Jojic, Zhen Wang, Nebojsa Jojic.* [[abs](https://arxiv.org/abs/2303.14310)], 2023.3
+ 
 
 ### 2.5 Multimodal
 
