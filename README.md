@@ -113,6 +113,14 @@ Data statistics of these resources:
 
    *Rachith Aiyappa, Jisun An, Haewoon Kwak, Yong-Yeol Ahn.* [[abs](https://arxiv.org/abs/2303.12767)], 2023.3
 
+8. **A comprehensive evaluation of ChatGPT's zero-shot Text-to-SQL capability.**
+
+   *Aiwei Liu, Xuming Hu, Lijie Wen, Philip S. Yu.* [[abs](https://arxiv.org/abs/2303.13547)][[github](https://github.com/THU-BPM/chatgpt-sql)], 2023.3
+
+9. **ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark.**
+
+   *Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao, Michael Lyu.* [[abs](https://arxiv.org/abs/2303.13648)], 2023.3
+
 
 ### 2.2 Open-ended Generation
 
@@ -217,8 +225,21 @@ Data statistics of these resources:
 
    *Mingyang Song, Haiyun Jiang, Shuming Shi, Songfang Yao, Shilong Lu, Yi Feng, Huafeng Liu, Liping Jing.* [[abs](https://arxiv.org/abs/2303.13001)], 2023.3
    
+### 2.7 Machine Translation
 
-### 2.7 Other Domains
+1. **Is ChatGPT A Good Translator? A Preliminary Study.**
+
+   *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu.* [[abs](https://arxiv.org/abs/2301.08745v2)],[[github](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)], 2023.1
+   
+2. **Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT.**
+
+   *Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao.* [[abs](https://arxiv.org/abs/2303.13809)],[[github](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)], 2023.3
+
+3. **Towards Making the Most of ChatGPT for Machine Translation.**
+
+   *Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao.* [[abs](https://arxiv.org/abs/2303.13780)],[[github](https://github.com/Romainpkq/ChatGPT4MT)], 2023.3
+
+### 2.8 Other Domains
 
 #### Education
 
@@ -324,6 +345,9 @@ Data statistics of these resources:
 
    *Yunjie Ji, Yan Gong, Yiping Peng, Chao Ni, Peiyan Sun, Dongyu Pan, Baochang Ma, Xiangang Li.* [[abs](https://arxiv.org/abs/2303.07610)], 2023.3
 
+4. **Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT.**
+
+   *Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao.* [[abs](https://arxiv.org/abs/2303.13809)],[[github](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)], 2023.3
 
 #### Metrics for detecting ChatGPT
 
