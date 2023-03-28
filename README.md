@@ -122,8 +122,8 @@ Data statistics of these resources:
    *Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao, Michael Lyu.* [[abs](https://arxiv.org/abs/2303.13648)], 2023.3
 
 10. **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks.**
-
-   *Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli.* [[abs](https://arxiv.org/abs/2303.15056)], 2023.3
+   
+    *Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli.* [[abs](https://arxiv.org/abs/2303.15056)], 2023.3
 
 
 ### 2.2 Open-ended Generation
