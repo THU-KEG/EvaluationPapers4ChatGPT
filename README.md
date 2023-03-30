@@ -121,12 +121,9 @@ Data statistics of these resources:
 
    *Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao, Michael Lyu.* [[abs](https://arxiv.org/abs/2303.13648)], 2023.3
 
-10. **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks.**
-   
-    *Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli.* [[abs](https://arxiv.org/abs/2303.15056)], 2023.3
 
 
-### 2.2 Open-ended Generation
+### 2.2 Ethics and Bias
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
 
@@ -136,9 +133,17 @@ Data statistics of these resources:
 
    *Fan Huang, Haewoon Kwak, Jisun An.* [[abs](https://arxiv.org/abs/2302.07736)], 2023.2
 
-3. **Chinese Intermediate English Learners outdid ChatGPT in deep cohesion: Evidence from English narrative writing.**
+3. **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks.**
+   
+    *Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli.* [[abs](https://arxiv.org/abs/2303.15056)], 2023.3
+
+4. **Chinese Intermediate English Learners outdid ChatGPT in deep cohesion: Evidence from English narrative writing.**
 
    *Tongquan Zhou, Siyi Cao, Siruo Zhou, Yao Zhang, Aijing He.* [[abs](https://arxiv.org/abs/2303.11812)], 2023.3
+
+5. **A Perspectival Mirror of the Elephant: Investigating Language Bias on Google, ChatGPT, Wikipedia, and YouTube.**
+
+   *Queenie Luo, Michael J. Puett, Michael D. Smith.* [[abs](https://arxiv.org/abs/2303.16281)], 2023.3
 
 
 ### 2.3 Long Text Summarization
@@ -158,7 +163,10 @@ Data statistics of these resources:
 4. **Cross-Lingual Summarization via ChatGPT.**
 
    *Jiaan Wang, Yunlong Liang, Fandong Meng, Zhixu Li, Jianfeng Qu, Jie Zhou.* [[abs](https://arxiv.org/abs/2302.14229)], 2023.2
-   
+
+5. **ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization.**
+
+   *Zheheng Luo, Qianqian Xie, Sophia Ananiadou.* [[abs](https://arxiv.org/abs/2303.15621)], 2023.3     
 
 
 
@@ -192,6 +200,10 @@ Data statistics of these resources:
 
    *Ana Jojic, Zhen Wang, Nebojsa Jojic.* [[abs](https://arxiv.org/abs/2303.14310)], 2023.3
  
+8. **ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.**
+
+   *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu, Ben He.* [[abs](https://arxiv.org/abs/2303.16421)], 2023.3
+
 
 ### 2.5 Multimodal
 
@@ -215,6 +227,10 @@ Data statistics of these resources:
 
    *Nan Gao, Zeyu Zhao, Zhi Zeng, Shuwu Zhang, Dongdong Weng.* [[abs](https://arxiv.org/abs/2303.13013)], 2023.3
 
+6. **ChatGPT4PCG Competition: Character-like Level Generation for Science Birds.**
+
+   *Pittawat Taveekitworachai, Febri Abdullah, Mury F. Dewantoro, Ruck Thawonmas, Julian Togelius, Jochen Renz.* [[abs](https://arxiv.org/abs/2303.15662)], 2023.3
+   
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -246,6 +262,11 @@ Data statistics of these resources:
 3. **Towards Making the Most of ChatGPT for Machine Translation.**
 
    *Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao.* [[abs](https://arxiv.org/abs/2303.13780)],[[github](https://github.com/Romainpkq/ChatGPT4MT)], 2023.3
+   
+4. **Linguistically Informed ChatGPT Prompts to Enhance Japanese-Chinese Machine Translation: A Case Study on Attributive Clauses.**
+
+   *Wenshi Gu.* [[abs](https://arxiv.org/abs/2303.15587)], 2023.3
+
 
 ### 2.8 Other Domains
 
@@ -293,6 +314,10 @@ Data statistics of these resources:
 5. **Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential.**
 
    *Qing Lyu, Josh Tan, Mike E. Zapadka, Janardhana Ponnatapuram, Chuang Niu, Ge Wang, Christopher T. Whitlow.* [[abs](https://arxiv.org/abs/2303.09038)], 2023.3
+
+6. **Evaluation of ChatGPT for NLP-based Mental Health Applications.**
+
+   *Bishal Lamichhane.* [[abs](https://arxiv.org/abs/2303.15727)], 2023.3
 
 #### Psychology
 
@@ -357,11 +382,20 @@ Data statistics of these resources:
 
    *Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao.* [[abs](https://arxiv.org/abs/2303.13809)],[[github](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)], 2023.3
 
+5. **GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment.**
+
+   *Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, Chenguang Zhu.* [[abs](https://arxiv.org/abs/2303.16634)], 2023.3
+
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
 
    *Yongqiang Ma, Jiawei Liu, Fan Yi, Qikai Cheng, Yong Huang, Wei Lu, Xiaozhong Liu.* [[abs](https://arxiv.org/abs/2301.10416)], 2023.1
+
+
+2. **ChatGPT or academic scientist? Distinguishing authorship with over 99% accuracy using off-the-shelf machine learning tools.**
+
+   *Heather Desaire, Aleesa E. Chua, Madeline Isom, Romana Jarosova, David Hua.* [[abs](https://arxiv.org/abs/2303.16352)], 2023.3
 
 
 ### 3.2 Available Tools
