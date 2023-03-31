@@ -318,7 +318,7 @@ Data statistics of these resources:
    
 6. **Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams.**
 
-   *Desnes Nunes, Ricardo Primi, Ramon Pires, Roberto Lotufo, Rodrigo Nogueira.* [[abs](https://arxiv.org/abs/2303.17003)], 2023.3
+   *Desnes Nunes, Ricardo Primi, Ramon Pires, Roberto Lotufo, Rodrigo Nogueira.* [[abs](https://arxiv.org/abs/2303.17003)],[[github](https://github.com/piresramon/gpt-4-enem)], 2023.3
 
 #### Biology
 
@@ -344,7 +344,7 @@ Data statistics of these resources:
 
 6. **Evaluation of ChatGPT for NLP-based Mental Health Applications.**
 
-   *Bishal Lamichhane.* [[abs](https://arxiv.org/abs/2303.15727)],[[github](https://github.com/piresramon/gpt-4-enem)], 2023.3
+   *Bishal Lamichhane.* [[abs](https://arxiv.org/abs/2303.15727)], 2023.3
 
 #### Psychology
 
