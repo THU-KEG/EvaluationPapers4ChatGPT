@@ -146,6 +146,9 @@ Data statistics of these resources:
 
    *Queenie Luo, Michael J. Puett, Michael D. Smith.* [[abs](https://arxiv.org/abs/2303.16281)], 2023.3
 
+6. **Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study.**
+
+   *Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich.* [[abs](https://arxiv.org/abs/2303.17466)], 2023.3
 
 ### 2.3 Long Text Summarization
 
@@ -169,6 +172,9 @@ Data statistics of these resources:
 
    *Zheheng Luo, Qianqian Xie, Sophia Ananiadou.* [[abs](https://arxiv.org/abs/2303.15621)], 2023.3     
 
+6. **Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study.**
+
+   *Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich.* [[abs](https://arxiv.org/abs/2303.17466)], 2023.3     
 
 
 ### 2.4 Reasoning
@@ -205,6 +211,10 @@ Data statistics of these resources:
 
    *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu, Ben He.* [[abs](https://arxiv.org/abs/2303.16421)], 2023.3
 
+9. **Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure.**
+
+   *Philipp Koralus, Vincent Wang-Maścianica.* [[abs](https://arxiv.org/abs/2303.17276)], 2023.3
+
 
 ### 2.5 Multimodal
 
@@ -232,6 +242,14 @@ Data statistics of these resources:
 
    *Pittawat Taveekitworachai, Febri Abdullah, Mury F. Dewantoro, Ruck Thawonmas, Julian Togelius, Jochen Renz.* [[abs](https://arxiv.org/abs/2303.15662)], 2023.3
    
+7. **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace.**
+
+   *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang.* [[abs](https://arxiv.org/abs/2303.17580)], 2023.3
+   
+8. **WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research.**
+
+   *Xinhao Mei, Chutong Meng, Haohe Liu, Qiuqiang Kong, Tom Ko, Chengqi Zhao, Mark D. Plumbley, Yuexian Zou, Wenwu Wang.* [[abs](https://arxiv.org/abs/2303.17395)], 2023.3  
+   
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -249,6 +267,11 @@ Data statistics of these resources:
 4. **Is ChatGPT A Good Keyphrase Generator? A Preliminary Study.**
 
    *Mingyang Song, Haiyun Jiang, Shuming Shi, Songfang Yao, Shilong Lu, Yi Feng, Huafeng Liu, Liping Jing.* [[abs](https://arxiv.org/abs/2303.13001)], 2023.3
+   
+5. **Yes but.. Can ChatGPT Identify Entities in Historical Documents?**
+
+   *Carlos-Emiliano González-Gallardo, Emanuela Boros, Nancy Girdhar, Ahmed Hamdi, Jose G. Moreno, Antoine Doucet.* [[abs](https://arxiv.org/abs/2303.17322)], 2023.3   
+   
    
 ### 2.7 Machine Translation
 
@@ -293,6 +316,9 @@ Data statistics of these resources:
 
    *Sebastian Bordt, Ulrike von Luxburg.* [[abs](https://arxiv.org/abs/2303.09461)][[github](https://github.com/tml-tuebingen/chatgpt-algorithm-exam)], 2023.3
    
+6. **Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams.**
+
+   *Desnes Nunes, Ricardo Primi, Ramon Pires, Roberto Lotufo, Rodrigo Nogueira.* [[abs](https://arxiv.org/abs/2303.17003)], 2023.3
 
 #### Biology
 
@@ -318,7 +344,7 @@ Data statistics of these resources:
 
 6. **Evaluation of ChatGPT for NLP-based Mental Health Applications.**
 
-   *Bishal Lamichhane.* [[abs](https://arxiv.org/abs/2303.15727)], 2023.3
+   *Bishal Lamichhane.* [[abs](https://arxiv.org/abs/2303.15727)],[[github](https://github.com/piresramon/gpt-4-enem)], 2023.3
 
 #### Psychology
 
