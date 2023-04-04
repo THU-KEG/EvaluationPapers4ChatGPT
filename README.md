@@ -219,6 +219,10 @@ Data statistics of these resources:
 
    *Philipp Koralus, Vincent Wang-Maścianica.* [[abs](https://arxiv.org/abs/2303.17276)], 2023.3
 
+10. **LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models.**
+
+    *Patrik Puchert, Poonam Poonam, Christian van Onzenoodt, Timo Ropinski.* [[abs](https://arxiv.org/abs/2304.00457)], 2023.4
+
 
 ### 2.5 Multimodal
 
@@ -429,6 +433,10 @@ Data statistics of these resources:
 
    *Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, Chenguang Zhu.* [[abs](https://arxiv.org/abs/2303.16634)], 2023.3
 
+6. **Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: A Preliminary Empirical Study.**
+
+   *Yi Chen, Rui Wang, Haiyun Jiang, Shuming Shi, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2304.00723)],[[github](https://github.com/MilkWhite/LLMs_for_Reference_Free_Text_Quality_Evaluation)], 2023.4
+   
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
