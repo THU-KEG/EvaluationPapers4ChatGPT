@@ -33,6 +33,10 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 1. **ChatGPT: A Meta-Analysis after 2.5 Months.**
 
    *Christoph Leiter, Ran Zhang, Yanran Chen, Jonas Belouadi, Daniil Larionov, Vivian Fresen, Steffen Eger.* [[abs](https://arxiv.org/abs/2302.13795)], 2023.2
+   
+2. **Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models.**
+
+   *Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, Mengshen He, Zhengliang Liu, Zihao Wu, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, Bao Ge.* [[abs](https://arxiv.org/abs/2304.01852)], 2023.4
 
 
 ## 1. Dataset Resource
@@ -122,6 +126,10 @@ Data statistics of these resources:
 
    *Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao, Michael Lyu.* [[abs](https://arxiv.org/abs/2303.13648)], 2023.3
 
+10. **Safety Analysis in the Era of Large Language Models: A Case Study of STPA using ChatGPT.**
+
+    *Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, Yue Zhang.* [[abs](https://arxiv.org/abs/2304.01746)], 2023.4
+
 
 
 ### 2.2 Ethics and Bias
@@ -149,6 +157,11 @@ Data statistics of these resources:
 6. **Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study.**
 
    *Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich.* [[abs](https://arxiv.org/abs/2303.17466)], 2023.3
+
+7. **Safety Analysis in the Era of Large Language Models: A Case Study of STPA using ChatGPT.**
+
+   *Yi Qi, Xingyu Zhao, Xiaowei Huang.* [[abs](https://arxiv.org/abs/2304.01246)], 2023.4
+
 
 ### 2.3 Long Text Summarization
 
