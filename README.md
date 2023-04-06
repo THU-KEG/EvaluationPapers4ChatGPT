@@ -193,6 +193,9 @@ Data statistics of these resources:
 
    *Mayank Soni, Vincent Wade.* [[abs](https://arxiv.org/abs/2303.17650)], 2023.3     
 
+8. **Comparative Analysis of CHATGPT and the evolution of language models.**
+
+   *Oluwatosin Ogundare, Gustavo Quiros Araya.* [[abs](https://arxiv.org/abs/2304.02468)], 2023.4
 
 ### 2.4 Reasoning
 
@@ -316,6 +319,9 @@ Data statistics of these resources:
 
    *Wenshi Gu.* [[abs](https://arxiv.org/abs/2303.15587)], 2023.3
 
+5. **Unleashing the Power of ChatGPT for Translation: An Empirical Study.**
+
+   *Yuan Gao, Ruili Wang, Feng Hou.* [[abs](https://arxiv.org/abs/2304.02182)], 2023.4
 
 ### 2.8 Other Domains
 
@@ -382,6 +388,10 @@ Data statistics of these resources:
 8. **Evaluation of GPT and BERT-based models on identifying protein-protein interactions in biomedical text.**
 
    *Hasin Rehana, Nur Bengisu Çam, Mert Basmaci, Yongqun He, Arzucan Özgür, Junguk Hur.* [[abs](https://arxiv.org/abs/2303.17728)], 2023.3
+
+9. **Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification.**
+
+   *Shan Chen, Yingya Li, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana K. Savova, Danielle S. Bitterman.* [[abs](https://arxiv.org/abs/2304.02496#)], 2023.4
 
 #### Psychology
 
@@ -454,6 +464,11 @@ Data statistics of these resources:
 
    *Yi Chen, Rui Wang, Haiyun Jiang, Shuming Shi, Ruifeng Xu.* [[abs](https://arxiv.org/abs/2304.00723)],[[github](https://github.com/MilkWhite/LLMs_for_Reference_Free_Text_Quality_Evaluation)], 2023.4
    
+7. **Human-like Summarization Evaluation with ChatGPT.**
+
+   *Mingqi Gao, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan.* [[abs](https://arxiv.org/abs/2304.02554)], 2023.4
+ 
+  
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
