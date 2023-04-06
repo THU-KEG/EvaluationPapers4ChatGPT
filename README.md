@@ -235,6 +235,10 @@ Data statistics of these resources:
 10. **LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models.**
 
     *Patrik Puchert, Poonam Poonam, Christian van Onzenoodt, Timo Ropinski.* [[abs](https://arxiv.org/abs/2304.00457)], 2023.4
+    
+11. **How well do Large Language Models perform in Arithmetic tasks?**
+ 
+    *Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang.* [[abs](https://arxiv.org/abs/2304.02015)], 2023.4
 
 
 ### 2.5 Multimodal
