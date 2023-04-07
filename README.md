@@ -70,6 +70,11 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 
    *Yiming Tan, Dehai Min, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen, Guilin Qi.* [[abs](https://arxiv.org/abs/2303.07992)][[github](https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-ChatGPT)], 2023.3
 
+8. **Instruction Tuning with GPT-4.**
+
+   *Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley, Jianfeng Gao.* [[abs](https://arxiv.org/abs/2304.03277)][[github](https://instruction-tuning-with-gpt-4.github.io/)], 2023.4
+
+
 
 Data statistics of these resources:
 
@@ -82,6 +87,7 @@ Data statistics of these resources:
 |On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective     | Robustness|2,237|
 |An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP).     | Reasoning|1,000|
 |Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions.     | Complex QA|194,782|
+|Instruction Tuning with GPT-4.     | Instruction Following|172,000|
 
 
 
@@ -161,6 +167,10 @@ Data statistics of these resources:
 7. **Safety Analysis in the Era of Large Language Models: A Case Study of STPA using ChatGPT.**
 
    *Yi Qi, Xingyu Zhao, Xiaowei Huang.* [[abs](https://arxiv.org/abs/2304.01246)], 2023.4
+
+8. **Investigating Chain-of-thought with ChatGPT for Stance Detection on Social Media.**
+
+   *Bowen Zhang, Xianghua Fu, Daijun Ding, Hu Huang, Yangyang Li, Liwen Jing.* [[abs](https://arxiv.org/abs/2304.03087)], 2023.4
 
 
 ### 2.3 Long Text Summarization
@@ -323,6 +333,10 @@ Data statistics of these resources:
 
    *Yuan Gao, Ruili Wang, Feng Hou.* [[abs](https://arxiv.org/abs/2304.02182)], 2023.4
 
+6. **Large language models effectively leverage document-level context for literary translation, but critical errors persist.**
+
+   *Marzena Karpinska, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2304.03245)],[[github](https://github.com/marzenakrp/LiteraryTranslation)], 2023.4
+
 ### 2.8 Other Domains
 
 #### Education
@@ -393,6 +407,11 @@ Data statistics of these resources:
 
    *Shan Chen, Yingya Li, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana K. Savova, Danielle S. Bitterman.* [[abs](https://arxiv.org/abs/2304.02496#)], 2023.4
 
+
+10. **ChatGPT for Shaping the Future of Dentistry: The Potential of Multi-Modal Large Language Model.**
+
+    *Hanyao Huang, Ou Zheng, Dongdong Wang, Jiayi Yin, Zijin Wang, Shengxuan Ding, Heng Yin, Chuan Xu, Renjie Yang, Qian Zheng, Bing Shi.* [[abs](https://arxiv.org/abs/2304.03086)], 2023.4
+
 #### Psychology
 
 
@@ -414,9 +433,16 @@ Data statistics of these resources:
 
 #### Law
 
-1. **Chatgpt goes to law school**
+1. **Chatgpt goes to law school.**
 
    *Teo Susnjak.* [[abs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335905)], 2023
+
+
+#### Game
+
+1. **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions.**
+
+   *Chen Feng Tsai, Xiaochen Zhou, Sierra S. Liu, Jing Li, Mo Yu, Hongyuan Mei.* [[abs](https://arxiv.org/abs/2304.02868)], 2023.4
 
 
 ## 3. Detection Tools
