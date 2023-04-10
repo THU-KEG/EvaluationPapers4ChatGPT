@@ -172,6 +172,10 @@ Data statistics of these resources:
 
    *Bowen Zhang, Xianghua Fu, Daijun Ding, Hu Huang, Yangyang Li, Liwen Jing.* [[abs](https://arxiv.org/abs/2304.03087)], 2023.4
 
+9. **Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models.**
+
+   *Emilio Ferrara.* [[abs](https://arxiv.org/abs/2304.03738)], 2023.4
+
 
 ### 2.3 Long Text Summarization
 
@@ -252,6 +256,14 @@ Data statistics of these resources:
 11. **How well do Large Language Models perform in Arithmetic tasks?**
  
     *Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang.* [[abs](https://arxiv.org/abs/2304.02015)], 2023.4
+
+12. **Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4.**
+ 
+    *Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang.* [[abs](https://arxiv.org/abs/2304.03439)], 2023.4
+
+13. **ChatGPT-Crawler: Find out if ChatGPT really knows what it's talking about.**
+ 
+    *Aman Rangapur, Haoran Wang.* [[abs](https://arxiv.org/abs/2304.03325)], [[github](https://github.com/IIT-NLP-RESEARCH/ChatGPT-Crawler)] 2023.4
 
 
 ### 2.5 Multimodal
@@ -412,6 +424,11 @@ Data statistics of these resources:
 
     *Hanyao Huang, Ou Zheng, Dongdong Wang, Jiayi Yin, Zijin Wang, Shengxuan Ding, Heng Yin, Chuan Xu, Renjie Yang, Qian Zheng, Bing Shi.* [[abs](https://arxiv.org/abs/2304.03086)], 2023.4
 
+11. **On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis.**
+
+    *Kailai Yang, Shaoxiong Ji, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou.* [[abs](https://arxiv.org/abs/2304.03347)], 2023.4
+
+
 #### Psychology
 
 
@@ -430,6 +447,10 @@ Data statistics of these resources:
 4. **Will Affective Computing Emerge from Foundation Models and General AI? A First Evaluation on ChatGPT.**
 
    *Mostafa M. Amin, Erik Cambria, Björn W. Schuller.* [[abs](https://arxiv.org/abs/2303.03186)], 2023.3
+   
+5. **What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory.**
+
+   *Ronald Fischer, Markus Luczak-Roesch, Johannes A Karl.* [[abs](https://arxiv.org/abs/2304.03612)], 2023.4
 
 #### Law
 
