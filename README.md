@@ -136,6 +136,13 @@ Data statistics of these resources:
 
     *Tao Fang, Shu Yang, Kaixin Lan, Derek F. Wong, Jinpeng Hu, Lidia S. Chao, Yue Zhang.* [[abs](https://arxiv.org/abs/2304.01746)], 2023.4
 
+11. **Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study.**
+
+    *Zengzhi Wang, Qiming Xie, Zixiang Ding, Yi Feng, Rui Xia.* [[abs](https://arxiv.org/abs/2304.04339)], 2023.4
+
+12. **A Preliminary Evaluation of ChatGPT for Zero-shot Dialogue Understanding.**
+
+    *Wenbo Pan, Qiguang Chen, Xiao Xu, Wanxiang Che, Libo Qin.* [[abs](https://arxiv.org/abs/2304.04256)], 2023.4
 
 
 ### 2.2 Ethics and Bias
@@ -211,6 +218,10 @@ Data statistics of these resources:
 
    *Oluwatosin Ogundare, Gustavo Quiros Araya.* [[abs](https://arxiv.org/abs/2304.02468)], 2023.4
 
+9. **Extractive Summarization via ChatGPT for Faithful Summary Generation.**
+
+   *Haopeng Zhang, Xiao Liu, Jiawei Zhang.* [[abs](https://arxiv.org/abs/2304.04193)], 2023.4
+   
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
