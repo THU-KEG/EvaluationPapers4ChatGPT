@@ -73,6 +73,10 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 8. **Instruction Tuning with GPT-4.**
 
    *Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley, Jianfeng Gao.* [[abs](https://arxiv.org/abs/2304.03277)][[github](https://instruction-tuning-with-gpt-4.github.io/)], 2023.4
+   
+9. **medAlpaca: Finetuned Large Language Models for Medical Question Answering.**
+
+   *Tianyu Han, Shan Chen, et al.* [[github](https://github.com/kbressem/medAlpaca)], 2023.4
 
 
 
@@ -88,6 +92,7 @@ Data statistics of these resources:
 |An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP).     | Reasoning|1,000|
 |Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions.     | Complex QA|194,782|
 |Instruction Tuning with GPT-4.     | Instruction Following|172,000|
+|medAlpaca: Finetuned Large Language Models for Medical Question Answering.     | Medical QA|1.5 million|
 
 
 
@@ -144,6 +149,11 @@ Data statistics of these resources:
 
     *Wenbo Pan, Qiguang Chen, Xiao Xu, Wanxiang Che, Libo Qin.* [[abs](https://arxiv.org/abs/2304.04256)], 2023.4
 
+13. **Zero-shot Temporal Relation Extraction with ChatGPT.**
+
+    *Chenhan Yuan, Qianqian Xie, Sophia Ananiadou.* [[abs](https://arxiv.org/abs/2304.05454)], 2023.4
+
+
 
 ### 2.2 Ethics and Bias
 
@@ -182,6 +192,14 @@ Data statistics of these resources:
 9. **Should ChatGPT be Biased? Challenges and Risks of Bias in Large Language Models.**
 
    *Emilio Ferrara.* [[abs](https://arxiv.org/abs/2304.03738)], 2023.4
+
+10. **Multi-step Jailbreaking Privacy Attacks on ChatGPT.**
+
+    *Haoran Li, Dadi Guo, Wei Fan, Mingshi Xu, Yangqiu Song.* [[abs](https://arxiv.org/abs/2304.05197)], 2023.4
+
+11. **Toxicity in ChatGPT: Analyzing Persona-assigned Language Models.**
+
+    *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2304.05335)], 2023.4
 
 
 ### 2.3 Long Text Summarization
@@ -360,6 +378,10 @@ Data statistics of these resources:
 
    *Marzena Karpinska, Mohit Iyyer.* [[abs](https://arxiv.org/abs/2304.03245)],[[github](https://github.com/marzenakrp/LiteraryTranslation)], 2023.4
 
+7. **ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning.**
+
+   *Viet Dac Lai, Nghia Trung Ngo, Amir Pouran Ben Veyseh, Hieu Man, Franck Dernoncourt, Trung Bui, Thien Huu Nguyen.* [[abs](https://arxiv.org/abs/2304.05613)], 2023.4
+
 ### 2.8 Other Domains
 
 #### Education
@@ -525,6 +547,10 @@ Data statistics of these resources:
 7. **Human-like Summarization Evaluation with ChatGPT.**
 
    *Mingqi Gao, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan.* [[abs](https://arxiv.org/abs/2304.02554)], 2023.4
+
+8. **Can ChatGPT and Bard Generate Aligned Assessment Items? A Reliability Analysis against Human Performance.**
+
+   *Abdolvahab Khademi.* [[abs](https://arxiv.org/abs/2304.05372)], 2023.4
  
   
 #### Metrics for detecting ChatGPT
@@ -537,6 +563,11 @@ Data statistics of these resources:
 2. **ChatGPT or academic scientist? Distinguishing authorship with over 99% accuracy using off-the-shelf machine learning tools.**
 
    *Heather Desaire, Aleesa E. Chua, Madeline Isom, Romana Jarosova, David Hua.* [[abs](https://arxiv.org/abs/2303.16352)], 2023.3
+
+
+3. **Distinguishing ChatGPT(-3.5, -4)-generated and human-written papers through Japanese stylometric analysis.**
+
+   *Wataru Zaitsu, Mingzhe Jin.* [[abs](https://arxiv.org/abs/2304.05534)], 2023.4
 
 
 ### 3.2 Available Tools
