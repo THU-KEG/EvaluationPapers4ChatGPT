@@ -76,7 +76,7 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
    
 9. **medAlpaca: Finetuned Large Language Models for Medical Question Answering.**
 
-   *Tianyu Han, Shan Chen, et al.* [[github](https://github.com/kbressem/medAlpaca)], 2023.4
+   *Keno Bressem, Tianyu Han, Shan Chen, et al.* [[github](https://github.com/kbressem/medAlpaca)], 2023.4
 
 
 
