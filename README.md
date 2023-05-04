@@ -266,6 +266,10 @@ Data statistics of these resources:
  
     *Junwen Zheng, Martin Fischer.* [[abs](https://arxiv.org/abs/2304.09333)], 2023.4
 
+12. **Uncovering ChatGPT's Capabilities in Recommender Systems.**
+ 
+    *Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu.* [[abs](https://arxiv.org/abs/2305.02182)], [[github](https://github.com/rainym00d/LLM4RS)], 2023.5
+
 
 ### 2.4 Reasoning
 
