@@ -165,6 +165,10 @@ Data statistics of these resources:
 
     *Yiming Zhu, Peixian Zhang, Ehsan-Ul Haq, Pan Hui, Gareth Tyson.* [[abs](https://arxiv.org/abs/2304.10145)], 2023.4
 
+15. **ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs.**
+
+    *Yucheng Shi, Hehuan Ma, Wenliang Zhong, Gengchen Mai, Xiang Li, Tianming Liu, Junzhou Huang.* [[abs](https://arxiv.org/abs/2305.03513)], 2023.5
+
 
 ### 2.2 Ethics and Bias
 
@@ -219,6 +223,10 @@ Data statistics of these resources:
 13. **Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4.**
 
     *Kent K. Chang, Mackenzie Cramer, Sandeep Soni, David Bamman.* [[abs](https://arxiv.org/abs/2305.00118)], 2023.5
+
+14. **ChatGPT Needs SPADE (Sustainability, PrivAcy, Digital divide, and Ethics) Evaluation: A Review.**
+
+    *Sunder Ali Khowaja, Parus Khuwaja, Kapal Dev.* [[abs](https://arxiv.org/abs/2305.03123)], 2023.5
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -366,6 +374,10 @@ Data statistics of these resources:
 9. **How does ChatGPT rate sound semantics?**
 
    *Kai Siedenburg, Charalampos Saitis.* [[abs](https://arxiv.org/abs/2304.07830)], 2023.4
+
+10. **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans.**
+
+    *Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, Kai Chen.* [[abs](https://arxiv.org/abs/2305.04790)], [[github](https://github.com/open-mmlab/Multimodal-GPT)], 2023.5
    
 ### 2.6 Information Extraction
 
@@ -401,6 +413,9 @@ Data statistics of these resources:
 
    *Chunkit Chan, Jiayang Cheng, Weiqi Wang, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.* [[abs](https://arxiv.org/abs/2304.14827)], 2023.4
    
+9. **Using ChatGPT for Entity Matching.**
+
+  *Ralph Peeters, Christian Bizer.* [[abs](https://arxiv.org/abs/2305.03423)], 2023.5
    
 ### 2.7 Machine Translation
 
@@ -519,7 +534,9 @@ Data statistics of these resources:
 
     *Debadutta Dash, Rahul Thapa, Juan M. Banda, Akshay Swaminathan, Morgan Cheatham, Mehr Kashyap, Nikesh Kotecha, Jonathan H. Chen, Saurabh Gombar, Lance Downing, Rachel Pedreira, Ethan Goh, Angel Arnaout, Garret Kenn Morris, Honor Magon, Matthew P Lungren, Eric Horvitz, Nigam H. Shah.* [[abs](https://arxiv.org/abs/2304.13714)], 2023.4
 
+14. **Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT models.**
 
+    *Mercy Ranjit, Gopinath Ganapathy, Ranjit Manuel, Tanuja Ganu.* [[abs](https://arxiv.org/abs/2305.03660)], 2023.5
 
 #### Psychology
 
@@ -547,6 +564,14 @@ Data statistics of these resources:
 6. **Is ChatGPT Equipped with Emotional Dialogue Capabilities?**
 
    *Weixiang Zhao, Yanyan Zhao, Xin Lu, Shilong Wang, Yanpeng Tong, Bing Qin.* [[abs](https://arxiv.org/abs/2304.09582)], 2023.4
+
+7. **Assessing Working Memory Capacity of ChatGPT.**
+
+   *Dongyu Gong.* [[abs](https://arxiv.org/abs/2305.03731)], 2023.5
+
+8. **Do Large Language Models Show Decision Heuristics Similar to Humans? A Case Study Using GPT-3.5.**
+
+   *Gaurav Suri, Lily R. Slater, Ali Ziaee, Morgan Nguyen.* [[abs](https://arxiv.org/abs/2305.04400)], 2023.5
 
 
 #### Law
