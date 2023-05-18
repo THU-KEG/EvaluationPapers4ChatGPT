@@ -169,6 +169,10 @@ Data statistics of these resources:
 
     *Yucheng Shi, Hehuan Ma, Wenliang Zhong, Gengchen Mai, Xiang Li, Tianming Liu, Junzhou Huang.* [[abs](https://arxiv.org/abs/2305.03513)], 2023.5
 
+16. **Uncovering the Potential of ChatGPT for Discourse Analysis in Dialogue: An Empirical Study.**
+
+    *Yaxin Fan, Feng Jiang.* [[abs](https://arxiv.org/abs/2305.08391)], 2023.5
+
 
 ### 2.2 Ethics and Bias
 
@@ -228,6 +232,19 @@ Data statistics of these resources:
 
     *Sunder Ali Khowaja, Parus Khuwaja, Kapal Dev.* [[abs](https://arxiv.org/abs/2305.03123)], 2023.5
 
+15. **Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting.**
+
+    *Haoyang Huang, Tianyi Tang, Dongdong Zhang, Wayne Xin Zhao, Ting Song, Yan Xia, Furu Wei.* [[abs](https://arxiv.org/abs/2305.07004)], 2023.5
+
+16. **Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation.**
+
+    *Jizhi Zhang, Keqin Bao, Yang Zhang, Wenjie Wang, Fuli Feng, Xiangnan He.* [[abs](https://arxiv.org/abs/2305.07609)], [[github]](https://github.com/jizhi-zhang/FaiRLLM), 2023.5
+
+17. **BAD: BiAs Detection for Large Language Models in the context of candidate screening.**
+
+    *Nam Ho Koh, Joseph Plata, Joyce Chai.* [[abs](https://arxiv.org/abs/2305.10407)], 2023.5
+
+
 ### 2.3 Long Text Summarization and Information Retrieval
 
 1. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization.**
@@ -278,6 +295,9 @@ Data statistics of these resources:
  
     *Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu.* [[abs](https://arxiv.org/abs/2305.02182)], [[github](https://github.com/rainym00d/LLM4RS)], 2023.5
 
+13. **A First Look at LLM-Powered Generative News Recommendation.**
+ 
+    *Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-Ming Wu.* [[abs](https://arxiv.org/abs/2305.06566)], 2023.5
 
 ### 2.4 Reasoning
 
@@ -336,6 +356,19 @@ Data statistics of these resources:
 14. **ChatABL: Abductive Learning via Natural Language Interaction with ChatGPT.**
  
     *Tianyang Zhong, Yaonai Wei, Li Yang, Zihao Wu, Zhengliang Liu, Xiaozheng Wei, Wenjun Li, Junjie Yao, Chong Ma, Xiang Li, Dajiang Zhu, Xi Jiang, Junwei Han, Dinggang Shen, Tianming Liu, Tuo Zhang.* [[abs](https://arxiv.org/abs/2304.11107)], 2023.4
+
+15. **Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation.**
+ 
+    *Jinglong Gao, Xiao Ding, Bing Qin, Ting Liu.* [[abs](https://arxiv.org/abs/2305.07375)], 2023.5
+
+16. **StructGPT: A General Framework for Large Language Model to Reason over Structured Data.**
+ 
+    *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.09645)], 2023.5
+
+17. **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models.**
+ 
+    *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Wai Lam, Yue Zhang.* [[abs](https://arxiv.org/abs/2305.10276)], 2023.5
+
 
 ### 2.5 Multimodal
 
@@ -538,6 +571,11 @@ Data statistics of these resources:
 
     *Mercy Ranjit, Gopinath Ganapathy, Ranjit Manuel, Tanuja Ganu.* [[abs](https://arxiv.org/abs/2305.03660)], 2023.5
 
+15. **MedGPTEval: A Dataset and Benchmark to Evaluate Responses of Large Language Models in Medicine.**
+
+    *Jie Xu, Lu Lu, Sen Yang, Bilin Liang, Xinwei Peng, Jiali Pang, Jinru Ding, Xiaoming Shi, Lingrui Yang, Huan Song, Kang Li, Xin Sun, Shaoting Zhang.* [[abs](https://arxiv.org/abs/2305.07340)], 2023.5
+
+
 #### Psychology
 
 
@@ -681,6 +719,13 @@ Data statistics of these resources:
 
    *Wenxiong Liao, Zhengliang Liu, Haixing Dai, Shaochen Xu, Zihao Wu, Yiyang Zhang, Xiaoke Huang, Dajiang Zhu, Hongmin Cai, Tianming Liu, Xiang Li.* [[abs](https://arxiv.org/abs/2304.11567)], 2023.4
    
+9. **Bot or Human? Detecting ChatGPT Imposters with A Single Question.**
+
+   *Hong Wang, Xuan Luo, Weizhi Wang, Xifeng Yan.* [[abs](https://arxiv.org/abs/2305.06424)],[[github](https://github.com/hongwang600/FLAIR)], 2023.5
+ 
+10. **GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content.**
+
+    *Yutian Chen, Hao Kang, Vivian Zhai, Liangze Li, Rita Singh, Bhiksha Ramakrishnan.* [[abs](https://arxiv.org/abs/2305.07969)], 2023.5
 
 ### 3.2 Available Tools
 
