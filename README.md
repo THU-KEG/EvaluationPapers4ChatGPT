@@ -359,7 +359,7 @@ Data statistics of these resources:
 
 15. **Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation.**
  
-    *Jinglong Gao, Xiao Ding, Bing Qin, Ting Liu.* [[abs](https://arxiv.org/abs/2305.07375)], 2023.5
+    *Jinglong Gao, Xiao Ding, Bing Qin, Ting Liu.* [[abs](https://arxiv.org/abs/2305.07375)],[[github](https://github.com/ArrogantL/ChatGPT4CausalReasoning)] 2023.5
 
 16. **StructGPT: A General Framework for Large Language Model to Reason over Structured Data.**
  
@@ -368,6 +368,10 @@ Data statistics of these resources:
 17. **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models.**
  
     *Hanxu Hu, Hongyuan Lu, Huajian Zhang, Wai Lam, Yue Zhang.* [[abs](https://arxiv.org/abs/2305.10276)], 2023.5
+
+18. **Tree of Thoughts: Deliberate Problem Solving with Large Language Models.**
+ 
+    *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10276)],[[github](https://github.com/ysymyth/tree-of-thought-llm)] 2023.5
 
 
 ### 2.5 Multimodal
@@ -411,7 +415,12 @@ Data statistics of these resources:
 10. **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans.**
 
     *Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, Kai Chen.* [[abs](https://arxiv.org/abs/2305.04790)], [[github](https://github.com/open-mmlab/Multimodal-GPT)], 2023.5
-   
+ 
+11. **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation.**
+
+    *Yujie Lu, Xianjun Yang, Xiujun Li, Xin Eric Wang, William Yang Wang.* [[abs](https://arxiv.org/abs/2305.11116)], [[github](https://github.com/YujieLu10/LLMScore)], 2023.5
+    
+ 
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -682,7 +691,7 @@ Data statistics of these resources:
 9. **Multidimensional Evaluation for Text Style Transfer Using ChatGPT.**
 
    *Huiyuan Lai, Antonio Toral, Malvina Nissim.* [[abs](https://arxiv.org/abs/2304.13462)], 2023.4
-  
+
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
@@ -727,6 +736,10 @@ Data statistics of these resources:
 
     *Yutian Chen, Hao Kang, Vivian Zhai, Liangze Li, Rita Singh, Bhiksha Ramakrishnan.* [[abs](https://arxiv.org/abs/2305.07969)], 2023.5
 
+11. **Large Language Models can be Guided to Evade AI-Generated Text Detection.**
+
+    *Ning Lu, Shengcai Liu, Rui He, Ke Tang.* [[abs](https://arxiv.org/abs/2305.10847)], 2023.5
+    
 ### 3.2 Available Tools
 
 1. [**Hello-SimpleAI ChatGPT Detector**](https://hello-simpleai-chatgpt-detector-ling.hf.space/):  An open-source detection project consists of three versions of models to detect text generated with ChatGPT, including [QA version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-qa), [Sinlge-text version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-single) and [Linguistic version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-ling).
