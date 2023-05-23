@@ -8,7 +8,7 @@
 ### News
 
 - 2023/03/15: OpenAI released [gpt4](https://arxiv.org/pdf/2303.08774.pdf), which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
-- 2023/04/28: We are maintaining a dataset [ChatLog](https://github.com/THU-KEG/ChatLog), which collects ChatGPT responses everyday from 2023-03-05 to now. We evaluate ChatGPT's performance on 21 benchmarks across time and find that previous evaluation results may change at new dates.
+- 2023/04/28: We are maintaining a dataset [ChatLog](https://github.com/THU-KEG/ChatLog), which collects ChatGPT responses everyday from 2023-03-05 to now. We evaluate ChatGPT's performance on 21 benchmarks across time and find that previous evaluation results may change at new dates. Besides, we build a search engine on our collected data. Try our [website](http://103.238.162.37:9621/)!
 
 ### Introduction
 
@@ -178,6 +178,13 @@ Data statistics of these resources:
 
     *Yaxin Fan, Feng Jiang.* [[abs](https://arxiv.org/abs/2305.08391)], 2023.5
 
+17. **Evaluating ChatGPT's Performance for Multilingual and Emoji-based Hate Speech Detection.**
+
+    *Mithun Das, Saurabh Kumar Pandey, Animesh Mukherjee.* [[abs](https://arxiv.org/abs/2305.13276)], 2023.5
+
+18. **Distilling ChatGPT for Explainable Automated Student Answer Assessment.**
+
+    *Jiazheng Li, Lin Gui, Yuxiang Zhou, David West, Cesare Aloisi, Yulan He.* [[abs](https://arxiv.org/abs/2305.12962)], 2023.5
 
 ### 2.2 Ethics and Bias
 
@@ -304,6 +311,11 @@ Data statistics of these resources:
  
     *Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-Ming Wu.* [[abs](https://arxiv.org/abs/2305.06566)], 2023.5
 
+14. **HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models.**
+ 
+    *Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.11747)], 2023.5
+
+
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
@@ -378,6 +390,25 @@ Data statistics of these resources:
  
     *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[abs](https://arxiv.org/abs/2305.10276)],[[github](https://github.com/ysymyth/tree-of-thought-llm)] 2023.5
 
+19. **Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases.**
+ 
+    *Xingxuan Li, Ruochen Zhao, Yew Ken Chia, Bosheng Ding, Lidong Bing, Shafiq Joty, Soujanya Poria.* [[abs](https://arxiv.org/abs/2305.13269)], 2023.5
+
+20. **Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Conflicts.**
+ 
+    *Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su.* [[abs](https://arxiv.org/abs/2305.13300)], 2023.5
+
+21. **Can ChatGPT Defend the Truth? Automatic Dialectical Evaluation Elicits LLMs' Deficiencies in Reasoning.**
+ 
+    *Boshi Wang, Xiang Yue, Huan Sun.* [[abs](https://arxiv.org/abs/2305.13160)], 2023.5
+
+22. **GPT-3.5 vs GPT-4: Evaluating ChatGPT's Reasoning Performance in Zero-shot Learning.**
+ 
+    *Jessica López Espejel, El Hassane Ettifouri, Mahaman Sanoussi Yahaya Alassan, El Mehdi Chouham, Walid Dahhane.* [[abs](https://arxiv.org/abs/2305.12477)], 2023.5
+
+23. **LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4.**
+ 
+    *Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, Yue Zhang.* [[abs](https://arxiv.org/abs/2305.12147)], 2023.5
 
 ### 2.5 Multimodal
 
@@ -463,7 +494,15 @@ Data statistics of these resources:
 9. **Using ChatGPT for Entity Matching.**
 
   *Ralph Peeters, Christian Bizer.* [[abs](https://arxiv.org/abs/2305.03423)], 2023.5
-   
+
+10. **LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities.**
+
+   *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13168)], [[github](https://github.com/zjunlp/AutoKG)], 2023.5
+
+11. **Prompt ChatGPT In MNER: Improved multimodal named entity recognition method based on auxiliary refining knowledge from ChatGPT.**
+
+   *Jinyuan Li, Han Li, Zhuo Pan, Gang Pan.* [[abs](https://arxiv.org/abs/2305.12212)]  2023.5
+
 ### 2.7 Machine Translation
 
 1. **Is ChatGPT A Good Translator? A Preliminary Study.**
@@ -697,6 +736,10 @@ Data statistics of these resources:
 
    *Huiyuan Lai, Antonio Toral, Malvina Nissim.* [[abs](https://arxiv.org/abs/2304.13462)], 2023.4
 
+10. **Re-visiting Automated Topic Model Evaluation with Large Language Models.**
+
+    *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash.* [[abs](https://arxiv.org/abs/2305.12152)],[[github](https://github.com/dominiksinsaarland/evaluating-topic-model-output)], 2023.5
+ 
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
@@ -744,7 +787,15 @@ Data statistics of these resources:
 11. **Large Language Models can be Guided to Evade AI-Generated Text Detection.**
 
     *Ning Lu, Shengcai Liu, Rui He, Ke Tang.* [[abs](https://arxiv.org/abs/2305.10847)], 2023.5
-    
+
+12. **G3Detector: General GPT-Generated Text Detector.**
+
+    *Haolan Zhan, Xuanli He, Qiongkai Xu, Yuxiang Wu, Pontus Stenetorp.* [[abs](https://arxiv.org/abs/2305.12680)], 2023.5
+
+13. **GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance.**
+
+    *Xiao Yu, Yuang Qi, Kejiang Chen, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Weiming Zhang, Nenghai Yu.* [[abs](https://arxiv.org/abs/2305.12519)], 2023.5
+
 ### 3.2 Available Tools
 
 1. [**Hello-SimpleAI ChatGPT Detector**](https://hello-simpleai-chatgpt-detector-ling.hf.space/):  An open-source detection project consists of three versions of models to detect text generated with ChatGPT, including [QA version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-qa), [Sinlge-text version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-single) and [Linguistic version](https://huggingface.co/spaces/Hello-SimpleAI/chatgpt-detector-ling).
