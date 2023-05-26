@@ -315,6 +315,9 @@ Data statistics of these resources:
  
     *Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.11747)], 2023.5
 
+15. **RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.**
+ 
+    *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2305.13304)], [[github](https://github.com/aiwaves-cn/RecurrentGPT)], 2023.5
 
 ### 2.4 Reasoning
 
@@ -410,6 +413,10 @@ Data statistics of these resources:
  
     *Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, Yue Zhang.* [[abs](https://arxiv.org/abs/2305.12147)], 2023.5
 
+24. **Enabling Large Language Models to Generate Text with Citations.**
+ 
+    *Tianyu Gao, Howard Yen, Jiatong Yu, Danqi Chen.* [[abs](https://arxiv.org/abs/2305.14627)],[[github](https://github.com/princeton-nlp/ALCE)] 2023.5
+    
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
@@ -455,7 +462,10 @@ Data statistics of these resources:
 11. **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation.**
 
     *Yujie Lu, Xianjun Yang, Xiujun Li, Xin Eric Wang, William Yang Wang.* [[abs](https://arxiv.org/abs/2305.11116)], [[github](https://github.com/YujieLu10/LLMScore)], 2023.5
-    
+
+12. **ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst.**
+
+    *Zijia Zhao, Longteng Guo, Tongtian Yue, Sihan Chen, Shuai Shao, Xinxin Zhu, Zehuan Yuan, Jing Liu.* [[abs](https://arxiv.org/abs/2305.16103)], [[github](https://iva-chatbridge.github.io/)], 2023.5
  
 ### 2.6 Information Extraction
 
@@ -502,6 +512,10 @@ Data statistics of these resources:
 11. **Prompt ChatGPT In MNER: Improved multimodal named entity recognition method based on auxiliary refining knowledge from ChatGPT.**
 
    *Jinyuan Li, Han Li, Zhuo Pan, Gang Pan.* [[abs](https://arxiv.org/abs/2305.12212)]  2023.5
+
+12. **STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models.**
+
+   *Mingyu Derek Ma, Xiaoxuan Wang, Po-Nien Kung, P. Jeffrey Brantingham, Nanyun Peng, Wei Wang.* [[abs](https://arxiv.org/abs/2305.15090)]  2023.5
 
 ### 2.7 Machine Translation
 
@@ -628,6 +642,9 @@ Data statistics of these resources:
 
     *Jie Xu, Lu Lu, Sen Yang, Bilin Liang, Xinwei Peng, Jiali Pang, Jinru Ding, Xiaoming Shi, Lingrui Yang, Huan Song, Kang Li, Xin Sun, Shaoting Zhang.* [[abs](https://arxiv.org/abs/2305.07340)], 2023.5
 
+16. **HuatuoGPT, towards Taming Language Model to Be a Doctor.**
+
+    *Hongbo Zhang, Junying Chen, Feng Jiang, Fei Yu, Zhihong Chen, Jianquan Li, Guiming Chen, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li.* [[abs](https://arxiv.org/abs/2305.15075)], [[github](https://github.com/FreedomIntelligence/HuatuoGPT)], 2023.5
 
 #### Psychology
 
