@@ -511,7 +511,7 @@ Data statistics of these resources:
 
 11. **Prompt ChatGPT In MNER: Improved multimodal named entity recognition method based on auxiliary refining knowledge from ChatGPT.**
 
-   *Jinyuan Li, Han Li, Zhuo Pan, Gang Pan.* [[abs](https://arxiv.org/abs/2305.12212)],  2023.5
+   *Jinyuan Li, Han Li, Zhuo Pan, Gang Pan.* [[abs](https://arxiv.org/abs/2305.12212)], 2023.5
 
 12. **STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models.**
 
@@ -519,7 +519,7 @@ Data statistics of these resources:
 
 13. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors.**
 
-   *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su.* [[abs](https://arxiv.org/abs/2305.11159)],  2023.5
+   *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su.* [[abs](https://arxiv.org/abs/2305.11159)], 2023.5
 
 ### 2.7 Machine Translation
 
