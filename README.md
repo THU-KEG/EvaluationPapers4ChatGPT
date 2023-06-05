@@ -195,6 +195,9 @@ Data statistics of these resources:
 
     *Md Tahmid Rahman Laskar, M Saiful Bari, Mizanur Rahman, Md Amran Hossen Bhuiyan, Shafiq Joty, Jimmy Xiangji Huang.* [[abs](https://arxiv.org/abs/2305.18486)], 2023.5
 
+20. **Sentiment Analysis in the Era of Large Language Models: A Reality Check.**
+
+    *Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, Lidong Bing.* [[abs](https://arxiv.org/abs/2305.15005)], 2023.5
 
 ### 2.2 Ethics and Bias
 
