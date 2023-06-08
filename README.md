@@ -9,6 +9,7 @@
 
 - 2023/03/15: OpenAI released [gpt4](https://arxiv.org/pdf/2303.08774.pdf), which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
 - 2023/04/28: We are maintaining a dataset [ChatLog](https://github.com/THU-KEG/ChatLog), which collects ChatGPT responses everyday from 2023-03-05 to now. We evaluate ChatGPT's performance on 21 benchmarks across time and find that previous evaluation results may change at new dates. Besides, we build a search engine on our collected data. Try our [website](http://103.238.162.37:9621/)!
+- 2023/06/08: We propose [Language-Model-as-an-Examiner](https://arxiv.org/abs/2306.04181), a novel benchmarking framework where the LM serves as a knowledgeable examiner that formulates questions based on its knowledge and evaluates responses in a reference-free manner. Try our dataset LMExamQA and benchmarking result at [here](http://lmexam.com).
 
 ### Introduction
 
@@ -199,6 +200,10 @@ Data statistics of these resources:
 
     *Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, Lidong Bing.* [[abs](https://arxiv.org/abs/2305.15005)], 2023.5
 
+21. **The Two Word Test: A Semantic Benchmark for Large Language Models.**
+
+    *Nicholas Riccardi, Rutvik H. Desai.* [[abs](https://arxiv.org/abs/2306.04610)], [[github](https://github.com/NickRiccardi/two-word-test)], 2023.6
+
 ### 2.2 Ethics and Bias
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
@@ -269,6 +274,10 @@ Data statistics of these resources:
 
     *Nam Ho Koh, Joseph Plata, Joyce Chai.* [[abs](https://arxiv.org/abs/2305.10407)], 2023.5
 
+18. **Knowledge of cultural moral norms in large language models.**
+
+    *Aida Ramezani, Yang Xu.* [[abs](https://arxiv.org/abs/2306.01857)], 2023.6
+
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -331,6 +340,14 @@ Data statistics of these resources:
 15. **RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.**
  
     *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2305.13304)], [[github](https://github.com/aiwaves-cn/RecurrentGPT)], 2023.5
+
+16. **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge.**
+ 
+    *Laura Cabello, Jiaang Li, Ilias Chalkidis.* [[abs](https://arxiv.org/abs/2306.03024)], 2023.6
+
+17. **Hybrid Long Document Summarization using C2F-FAR and ChatGPT: A Practical Study.**
+ 
+    *Guang Lu, Sylvia B. Larcher, Tu Tran.* [[abs](https://arxiv.org/abs/2306.01169)], 2023.6
 
 ### 2.4 Reasoning
 
@@ -479,7 +496,11 @@ Data statistics of these resources:
 12. **ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst.**
 
     *Zijia Zhao, Longteng Guo, Tongtian Yue, Sihan Chen, Shuai Shao, Xinxin Zhu, Zehuan Yuan, Jing Liu.* [[abs](https://arxiv.org/abs/2305.16103)], [[github](https://iva-chatbridge.github.io/)], 2023.5
- 
+    
+13. **GPT4GEO: How a Language Model Sees the World's Geography.**
+
+    *Jonathan Roberts, Timo Lüddecke, Sowmen Das, Kai Han, Samuel Albanie.* [[abs](https://arxiv.org/abs/2306.00020)], 2023.6
+    
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -698,6 +719,19 @@ Data statistics of these resources:
 
    *Gaurav Suri, Lily R. Slater, Ali Ziaee, Morgan Nguyen.* [[abs](https://arxiv.org/abs/2305.04400)], 2023.5
 
+9. **ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models.**
+
+   *Sophie Jentzsch, Kristian Kersting.* [[abs](https://arxiv.org/abs/2306.04563)], 2023.6
+
+10. **Can LLMs like GPT-4 outperform traditional AI tools in dementia diagnosis? Maybe, but not today.**
+ 
+    *Zhuo Wang, Rongzhen Li, Bowen Dong, Jie Wang, Xiuxing Li, Ning Liu, Chenhui Mao, Wei Zhang, Liling Dong, Jing Gao, Jianyong Wang.* [[abs](https://arxiv.org/abs/2306.01499)], 2023.6
+
+#### Code
+
+1. **SelfEvolve: A Code Evolution Framework via Large Language Models.**
+
+   *Shuyang Jiang, Yuhao Wang, Yu Wang.* [[abs](https://arxiv.org/abs/2306.02907)], 2023.6
 
 #### Law
 
@@ -774,6 +808,11 @@ Data statistics of these resources:
 
     *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash.* [[abs](https://arxiv.org/abs/2305.12152)],[[github](https://github.com/dominiksinsaarland/evaluating-topic-model-output)], 2023.5
  
+ 
+11. **Benchmarking Foundation Models with Language-Model-as-an-Examiner.**
+
+    *Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou.* [[abs](https://arxiv.org/abs/2306.04181)],[[website](https://lmexam.com/)], 2023.6
+    
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
@@ -829,6 +868,11 @@ Data statistics of these resources:
 13. **GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance.**
 
     *Xiao Yu, Yuang Qi, Kejiang Chen, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Weiming Zhang, Nenghai Yu.* [[abs](https://arxiv.org/abs/2305.12519)], 2023.5
+
+14. **On the Reliability of Watermarks for Large Language Models.**
+
+    *John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein.* [[abs](https://arxiv.org/abs/2306.04634)], 2023.6
+
 
 ### 3.2 Available Tools
 
