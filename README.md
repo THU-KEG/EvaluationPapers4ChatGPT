@@ -9,7 +9,7 @@
 
 - 2023/03/15: OpenAI released [gpt4](https://arxiv.org/pdf/2303.08774.pdf), which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
 - 2023/04/28: We are maintaining a dataset [ChatLog](https://github.com/THU-KEG/ChatLog), which collects ChatGPT responses everyday from 2023-03-05 to now. We evaluate ChatGPT's performance on 21 benchmarks across time and find that previous evaluation results may change at new dates. Based on the colleted data, we build [OpenChatLog](https://github.com/ShangQingTu/OpenChatLog), a search engine for LLM generated texts. Try our [website](http://103.238.162.37:9621/) (If your ip is in China).
-- 2023/06/08: We propose [Language-Model-as-an-Examiner](https://arxiv.org/abs/2306.04181), a novel benchmarking framework where the LM serves as a knowledgeable examiner that formulates questions based on its knowledge and evaluates responses in a reference-free manner. Try our dataset LMExamQA and benchmarking result at [here](http://lmexam.com).
+- 2023/06/08: We propose [Language-Model-as-an-Examiner](https://arxiv.org/abs/2306.04181), a novel benchmarking framework where the LM serves as a knowledgeable examiner that formulates questions based on its knowledge and evaluates responses in a reference-free manner. Try our dataset LMExamQA and benchmarking result at [here](https://lmexam.com).
 
 ### Introduction
 
