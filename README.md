@@ -546,23 +546,23 @@ Data statistics of these resources:
    
 9. **Using ChatGPT for Entity Matching.**
 
-  *Ralph Peeters, Christian Bizer.* [[abs](https://arxiv.org/abs/2305.03423)], 2023.5
+   *Ralph Peeters, Christian Bizer.* [[abs](https://arxiv.org/abs/2305.03423)], 2023.5
 
 10. **LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities.**
 
-   *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13168)], [[github](https://github.com/zjunlp/AutoKG)], 2023.5
+    *Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.* [[abs](https://arxiv.org/abs/2305.13168)], [[github](https://github.com/zjunlp/AutoKG)], 2023.5
 
 11. **Prompt ChatGPT In MNER: Improved multimodal named entity recognition method based on auxiliary refining knowledge from ChatGPT.**
 
-   *Jinyuan Li, Han Li, Zhuo Pan, Gang Pan.* [[abs](https://arxiv.org/abs/2305.12212)], 2023.5
+    *Jinyuan Li, Han Li, Zhuo Pan, Gang Pan.* [[abs](https://arxiv.org/abs/2305.12212)], 2023.5
 
 12. **STAR: Boosting Low-Resource Event Extraction by Structure-to-Text Data Generation with Large Language Models.**
 
-   *Mingyu Derek Ma, Xiaoxuan Wang, Po-Nien Kung, P. Jeffrey Brantingham, Nanyun Peng, Wei Wang.* [[abs](https://arxiv.org/abs/2305.15090)]  2023.5
+    *Mingyu Derek Ma, Xiaoxuan Wang, Po-Nien Kung, P. Jeffrey Brantingham, Nanyun Peng, Wei Wang.* [[abs](https://arxiv.org/abs/2305.15090)]  2023.5
 
 13. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors.**
 
-   *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su.* [[abs](https://arxiv.org/abs/2305.11159)], 2023.5
+    *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su.* [[abs](https://arxiv.org/abs/2305.11159)], 2023.5
 
 ### 2.7 Machine Translation
 
