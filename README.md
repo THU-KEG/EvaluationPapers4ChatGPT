@@ -10,7 +10,8 @@
 - 2023/03/15: OpenAI released [gpt4](https://arxiv.org/pdf/2303.08774.pdf), which can be accessed on ChatGPT's plus service, we view it as a latest version of ChatGPT.
 - 2023/04/28: We are maintaining a dataset [ChatLog](https://github.com/THU-KEG/ChatLog), which collects ChatGPT responses everyday from 2023-03-05 to now. We evaluate ChatGPT's performance on 21 benchmarks across time and find that previous evaluation results may change at new dates. Based on the colleted data, we build [OpenChatLog](https://github.com/ShangQingTu/OpenChatLog), a search engine for LLM generated texts. Try our [website](http://103.238.162.37:9621/) (If your ip is in China).
 - 2023/06/08: We propose [Language-Model-as-an-Examiner](https://arxiv.org/abs/2306.04181), a novel benchmarking framework where the LM serves as a knowledgeable examiner that formulates questions based on its knowledge and evaluates responses in a reference-free manner. Try our dataset LMExamQA and benchmarking result at [here](https://lmexam.com).
-
+- 2023/06/16: We are delighted to announce the official release of [*KoLA*](https://arxiv.org/abs/2306.09296), a continuously evolving world knowledge evaluation platform that encompasses a 4-layer cognitive structure and 19 tasks. Our goal is to provide unbiased evaluation results to assist in enhancing the capabilities of knowledge systems and large models. You can participate in the evaluation or provide feedback through the platform at https://kola.xlore.cn/ or via [GitHub](https://github.com/THU-KEG/KoLA).
+ 
 ### Introduction
 
 This repository stores Dataset Resources, Evaluation Papers and Detection Tools for ChatGPT.
@@ -203,6 +204,10 @@ Data statistics of these resources:
 21. **The Two Word Test: A Semantic Benchmark for Large Language Models.**
 
     *Nicholas Riccardi, Rutvik H. Desai.* [[abs](https://arxiv.org/abs/2306.04610)], [[github](https://github.com/NickRiccardi/two-word-test)], 2023.6
+
+22. **Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation.**
+
+    *Zhouhong Gu, Xiaoxuan Zhu, Haoning Ye, Lin Zhang, Jianchen Wang, Sihang Jiang, Zhuozhi Xiong, Zihan Li, Qianyu He, Rui Xu, Wenhao Huang, Zili Wang, Shusen Wang, Weiguo Zheng, Hongwei Feng, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2306.05783)], [[github](https://github.com/MikeGu721/XiezhiBenchmark)], 2023.6
 
 ### 2.2 Ethics and Bias
 
@@ -446,6 +451,10 @@ Data statistics of these resources:
 24. **Enabling Large Language Models to Generate Text with Citations.**
  
     *Tianyu Gao, Howard Yen, Jiatong Yu, Danqi Chen.* [[abs](https://arxiv.org/abs/2305.14627)],[[github](https://github.com/princeton-nlp/ALCE)] 2023.5
+
+25. **Why Does ChatGPT Fall Short in Providing Truthful Answers?**
+ 
+    *Shen Zheng, Jie Huang, Kevin Chen-Chuan Chang.* [[abs](https://arxiv.org/abs/2304.10513)], 2023.4
     
 ### 2.5 Multimodal
 
@@ -684,6 +693,10 @@ Data statistics of these resources:
 
     *Hongbo Zhang, Junying Chen, Feng Jiang, Fei Yu, Zhihong Chen, Jianquan Li, Guiming Chen, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li.* [[abs](https://arxiv.org/abs/2305.15075)], [[github](https://github.com/FreedomIntelligence/HuatuoGPT)], 2023.5
 
+17. **Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective.**
+
+    *Jiatong Li, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li.* [[abs](https://arxiv.org/abs/2306.06615)],[[github](https://github.com/phenixace/MolReGPT)] 2023.6
+
 #### Psychology
 
 
@@ -733,6 +746,12 @@ Data statistics of these resources:
 
    *Shuyang Jiang, Yuhao Wang, Yu Wang.* [[abs](https://arxiv.org/abs/2306.02907)], 2023.6
 
+#### Finance
+
+1. **FinGPT: Open-Source Financial Large Language Models.**
+
+   *Hongyang Yang, Xiao-Yang Liu, Christina Dan Wang.* [[abs](https://arxiv.org/abs/2306.06031)],[[github](https://github.com/AI4Finance-Foundation/FinGPT)], 2023.6
+   
 #### Law
 
 1. **Chatgpt goes to law school.**
@@ -808,7 +827,6 @@ Data statistics of these resources:
 
     *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash.* [[abs](https://arxiv.org/abs/2305.12152)],[[github](https://github.com/dominiksinsaarland/evaluating-topic-model-output)], 2023.5
  
- 
 11. **Benchmarking Foundation Models with Language-Model-as-an-Examiner.**
 
     *Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou.* [[abs](https://arxiv.org/abs/2306.04181)],[[website](https://lmexam.com/)], 2023.6
@@ -872,6 +890,14 @@ Data statistics of these resources:
 14. **On the Reliability of Watermarks for Large Language Models.**
 
     *John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein.* [[abs](https://arxiv.org/abs/2306.04634)], 2023.6
+
+15. **Implementing BERT and fine-tuned RobertA to detect AI generated news by ChatGPT.**
+
+    *Zecong Wang, Jiaxi Cheng, Chen Cui, Chenhao Yu.* [[abs](https://arxiv.org/abs/2306.07401)], 2023.6
+
+16. **Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?**
+
+    *Wissam Antoun, Virginie Mouilleron, Benoît Sagot, Djamé Seddah.* [[abs](https://arxiv.org/abs/2306.05871)], 2023.6
 
 
 ### 3.2 Available Tools
