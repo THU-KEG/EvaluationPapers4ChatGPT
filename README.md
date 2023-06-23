@@ -209,6 +209,10 @@ Data statistics of these resources:
 
     *Zhouhong Gu, Xiaoxuan Zhu, Haoning Ye, Lin Zhang, Jianchen Wang, Sihang Jiang, Zhuozhi Xiong, Zihan Li, Qianyu He, Rui Xu, Wenhao Huang, Zili Wang, Shusen Wang, Weiguo Zheng, Hongwei Feng, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2306.05783)], [[github](https://github.com/MikeGu721/XiezhiBenchmark)], 2023.6
 
+23. **ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations.**
+
+    *Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman.* [[abs](https://arxiv.org/abs/2306.09390)], 2023.6
+
 ### 2.2 Ethics and Bias
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
@@ -282,6 +286,14 @@ Data statistics of these resources:
 18. **Knowledge of cultural moral norms in large language models.**
 
     *Aida Ramezani, Yang Xu.* [[abs](https://arxiv.org/abs/2306.01857)], 2023.6
+
+19. **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models.**
+
+    *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.* [[abs](https://arxiv.org/abs/2306.11698)],[[github]](https://decodingtrust.github.io/), 2023.6
+
+20. **TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models.**
+
+    *Yue Huang, Qihui Zhang, Philip S. Y, Lichao Sun.* [[abs](https://arxiv.org/abs/2306.11507)], 2023.6
 
 
 ### 2.3 Long Text Summarization and Information Retrieval
@@ -455,6 +467,10 @@ Data statistics of these resources:
 25. **Why Does ChatGPT Fall Short in Providing Truthful Answers?**
  
     *Shen Zheng, Jie Huang, Kevin Chen-Chuan Chang.* [[abs](https://arxiv.org/abs/2304.10513)], 2023.4
+
+26. **Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views.**
+ 
+    *Fangzhi Xu, Qika Lin, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria.* [[abs](https://arxiv.org/abs/2306.09841)], 2023.6
     
 ### 2.5 Multimodal
 
@@ -593,6 +609,10 @@ Data statistics of these resources:
 7. **ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning.**
 
    *Viet Dac Lai, Nghia Trung Ngo, Amir Pouran Ben Veyseh, Hieu Man, Franck Dernoncourt, Trung Bui, Thien Huu Nguyen.* [[abs](https://arxiv.org/abs/2304.05613)], 2023.4
+
+8. **BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models.**
+
+   *Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng.* [[abs](https://arxiv.org/abs/2306.10968)],[[github](https://github.com/ictnlp/BayLing)], 2023.6
 
 ### 2.8 Other Domains
 
@@ -746,6 +766,10 @@ Data statistics of these resources:
 
    *Shuyang Jiang, Yuhao Wang, Yu Wang.* [[abs](https://arxiv.org/abs/2306.02907)], 2023.6
 
+2. **Demystifying GPT Self-Repair for Code Generation.**
+
+   *Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama.* [[abs](https://arxiv.org/abs/2306.09896)], 2023.6
+
 #### Finance
 
 1. **FinGPT: Open-Source Financial Large Language Models.**
@@ -758,12 +782,26 @@ Data statistics of these resources:
 
    *Teo Susnjak.* [[abs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335905)], 2023
 
+2. **Explaining Legal Concepts with Augmented Large Language Models (GPT-4).**
+
+   *Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu.* [[abs](https://arxiv.org/abs/2306.09525)], 2023.6
+
 
 #### Game
 
 1. **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions.**
 
    *Chen Feng Tsai, Xiaochen Zhou, Sierra S. Liu, Jing Li, Mo Yu, Hongyuan Mei.* [[abs](https://arxiv.org/abs/2304.02868)], 2023.4
+
+2. **Solving and Generating NPR Sunday Puzzles with Large Language Models.**
+
+   *Jingmiao Zhao, Carolyn Jane Anderson.* [[abs](https://arxiv.org/abs/2306.12255)], 2023.6
+
+#### Food
+
+1. **Exploring New Frontiers in Agricultural NLP: Investigating the Potential of Large Language Models for Food Applications.**
+
+   *Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Haixing Dai, Gengchen Mai, Ninghao Liu, Chen Zhen, Tianming Liu, Sheng Li.* [[abs](https://arxiv.org/abs/2306.11892)], 2023.6
 
 
 ## 3. Detection Tools
