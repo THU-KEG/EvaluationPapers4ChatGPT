@@ -525,6 +525,10 @@ Data statistics of these resources:
 13. **GPT4GEO: How a Language Model Sees the World's Geography.**
 
     *Jonathan Roberts, Timo Lüddecke, Sowmen Das, Kai Han, Samuel Albanie.* [[abs](https://arxiv.org/abs/2306.00020)], 2023.6
+
+14. **A Survey on Multimodal Large Language Models.**
+
+    *Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen.* [[abs](https://arxiv.org/abs/2306.13549)], [[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)], 2023.6
     
 ### 2.6 Information Extraction
 
@@ -579,6 +583,10 @@ Data statistics of these resources:
 13. **Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors.**
 
     *Kai Zhang, Bernal Jiménez Gutiérrez, Yu Su.* [[abs](https://arxiv.org/abs/2305.11159)], 2023.5
+
+14. **Product Information Extraction using ChatGPT.**
+
+    *Alexander Brinkmann, Roee Shraga, Reng Chiz Der, Christian Bizer.* [[abs](https://arxiv.org/abs/2306.14921)], 2023.6
 
 ### 2.7 Machine Translation
 
@@ -770,6 +778,14 @@ Data statistics of these resources:
 
    *Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama.* [[abs](https://arxiv.org/abs/2306.09896)], 2023.6
 
+3. **Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors.**
+
+   *Tung Phung, Victor-Alexandru Pădurean, José Cambronero, Sumit Gulwani, Tobias Kohn, Rupak Majumdar, Adish Singla, Gustavo Soares.* [[abs](https://arxiv.org/abs/2306.17156)], 2023.6
+
+4. **Exploring the Robustness of Large Language Models for Solving Programming Problems.**
+
+   *Atsushi Shirafuji, Yutaka Watanobe, Takumi Ito, Makoto Morishita, Yuki Nakamura, Yusuke Oda, Jun Suzuki.* [[abs](https://arxiv.org/abs/2306.14583)], 2023.6
+
 #### Finance
 
 1. **FinGPT: Open-Source Financial Large Language Models.**
@@ -868,6 +884,10 @@ Data statistics of these resources:
 11. **Benchmarking Foundation Models with Language-Model-as-an-Examiner.**
 
     *Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou.* [[abs](https://arxiv.org/abs/2306.04181)],[[website](https://lmexam.com/)], 2023.6
+
+12. **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**
+
+    *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica.* [[abs](https://arxiv.org/abs/2306.05685)],[[github](https://github.com/lm-sys/FastChat/tree/main/llm-judge)], 2023.6
     
 #### Metrics for detecting ChatGPT
 
