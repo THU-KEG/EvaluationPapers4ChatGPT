@@ -44,6 +44,10 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 
    *Jingfeng Yang, Hongye Jin, Ruixiang Tang, Xiaotian Han, Qizhang Feng, Haoming Jiang, Bing Yin, Xia Hu.* [[abs](https://arxiv.org/abs/2304.13712)], 2023.4
 
+4. **A Survey on Evaluation of Large Language Models.**
+
+   *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.* [[abs](https://arxiv.org/abs/2307.03109)], 2023.7
+
 
 ## 1. Dataset Resource
 
@@ -295,6 +299,10 @@ Data statistics of these resources:
 
     *Yue Huang, Qihui Zhang, Philip S. Y, Lichao Sun.* [[abs](https://arxiv.org/abs/2306.11507)], 2023.6
 
+21. **ProPILE: Probing Privacy Leakage in Large Language Models.**
+
+    *Siwon Kim, Sangdoo Yun, Hwaran Lee, Martin Gubri, Sungroh Yoon, Seong Joon Oh.* [[abs](https://arxiv.org/abs/2307.01881)], 2023.7
+
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -365,6 +373,10 @@ Data statistics of these resources:
 17. **Hybrid Long Document Summarization using C2F-FAR and ChatGPT: A Practical Study.**
  
     *Guang Lu, Sylvia B. Larcher, Tu Tran.* [[abs](https://arxiv.org/abs/2306.01169)], 2023.6
+
+18. **Generative Job Recommendations with Large Language Model.**
+ 
+    *Zhi Zheng, Zhaopeng Qiu, Xiao Hu, Likang Wu, Hengshu Zhu, Hui Xiong.* [[abs](https://arxiv.org/abs/2307.02157)], 2023.7
 
 ### 2.4 Reasoning
 
@@ -529,7 +541,15 @@ Data statistics of these resources:
 14. **A Survey on Multimodal Large Language Models.**
 
     *Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen.* [[abs](https://arxiv.org/abs/2306.13549)], [[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)], 2023.6
-    
+
+15. **What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**
+
+    *Yan Zeng, Hanbo Zhang, Jiani Zheng, Jiangnan Xia, Guoqiang Wei, Yang Wei, Yuchen Zhang, Tao Kong.* [[abs](https://arxiv.org/abs/2307.02469)], 2023.7 
+
+16. **Building Cooperative Embodied Agents Modularly with Large Language Models.**
+
+    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)], [[github](https://github.com/UMass-Foundation-Model/Co-LLM-Agentss)], 2023.7
+
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -653,6 +673,10 @@ Data statistics of these resources:
 7. **Can AI Chatbots Pass the Fundamentals of Engineering (FE) and Principles and Practice of Engineering (PE) Structural Exams?**
 
    *M.Z. Naser, Brandon Ross, Jennier Ogle, Venkatesh Kodur, Rami Hawileh, Jamal Abdalla, Huu-Tai Thai.* [[abs](https://arxiv.org/abs/2303.18149)], 2023.3
+
+8. **Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives.**
+
+   *Pragnya Sridhar, Aidan Doyle, Arav Agarwal, Christopher Bogart, Jaromir Savelka, Majd Sakr.* [[abs](https://arxiv.org/abs/2306.17459)], 2023.6
 
 #### Biology
 
@@ -817,7 +841,13 @@ Data statistics of these resources:
 
 1. **Exploring New Frontiers in Agricultural NLP: Investigating the Potential of Large Language Models for Food Applications.**
 
-   *Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Haixing Dai, Gengchen Mai, Ninghao Liu, Chen Zhen, Tianming Liu, Sheng Li.* [[abs](https://arxiv.org/abs/2306.11892)], 2023.6
+   *Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Haixing Dai, Gengchen Mai, Ninghao Liu, Chen Zhen, Tianming Liu, Sheng Li.* [[abs](https://arxiv.org/abs/2306.17582)], 2023.6
+
+#### Robotics
+
+1. **ChatGPT for Robotics: Design Principles and Model Abilities.**
+
+   *Sai Vemprala, Rogerio Bonatti, Arthur Bucker, Ashish Kapoor.* [[abs](https://arxiv.org/abs/2306.11892)],[[github](https://github.com/microsoft/PromptCraft-Robotics)], 2023.6
 
 
 ## 3. Detection Tools
@@ -957,6 +987,9 @@ Data statistics of these resources:
 
     *Wissam Antoun, Virginie Mouilleron, Benoît Sagot, Djamé Seddah.* [[abs](https://arxiv.org/abs/2306.05871)], 2023.6
 
+17. **Evade ChatGPT Detectors via A Single Space.**
+
+    *Shuyang Cai, Wanyun Cui.* [[abs](https://arxiv.org/abs/2307.02599)], 2023.7
 
 ### 3.2 Available Tools
 
