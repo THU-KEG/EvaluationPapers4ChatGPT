@@ -378,6 +378,10 @@ Data statistics of these resources:
  
     *Zhi Zheng, Zhaopeng Qiu, Xiao Hu, Likang Wu, Hengshu Zhu, Hui Xiong.* [[abs](https://arxiv.org/abs/2307.02157)], 2023.7
 
+19. **Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews.**
+ 
+    *Eugene Syriani, Istvan David, Gauransh Kumar.* [[abs](https://arxiv.org/abs/2307.06464)], 2023.7
+
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
@@ -642,6 +646,10 @@ Data statistics of these resources:
 
    *Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng.* [[abs](https://arxiv.org/abs/2306.10968)],[[github](https://github.com/ictnlp/BayLing)], 2023.6
 
+9. **Neural Machine Translation Data Generation and Augmentation using ChatGPT.**
+
+   *Wayne Yang, Garrett Nicolai.* [[abs](https://arxiv.org/abs/2307.05779)], 2023.7
+
 ### 2.8 Other Domains
 
 #### Education
@@ -809,6 +817,10 @@ Data statistics of these resources:
 4. **Exploring the Robustness of Large Language Models for Solving Programming Problems.**
 
    *Atsushi Shirafuji, Yutaka Watanobe, Takumi Ito, Makoto Morishita, Yuki Nakamura, Yusuke Oda, Jun Suzuki.* [[abs](https://arxiv.org/abs/2306.14583)], 2023.6
+
+5. **Unmasking the giant: A comprehensive evaluation of ChatGPT's proficiency in coding algorithms and data structures.**
+
+   *Sayed Erfan Arefin, Tasnia Ashrafi Heya, Hasan Al-Qudah, Ynes Ineza, Abdul Serwadda.* [[abs](https://arxiv.org/abs/2307.05360)], 2023.7
 
 #### Finance
 
