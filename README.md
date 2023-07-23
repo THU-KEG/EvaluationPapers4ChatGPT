@@ -27,6 +27,7 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
   * [2.6 Information Extraction](#26-information-extraction)
   * [2.7 Machine Translation](#27-machine-translation)
   * [2.8 Other Domains](#28-other-domains)
+  * [2.9 Uncertainty of Evaluating LLMs](#29-uncertainty-of-evaluating-llms)
 * [3. Detection Tools](#3-detection-tools)
   * [3.1 Metrics](#31-metrics)
   * [3.2 Available Tools](#32-available-tools)
@@ -303,6 +304,9 @@ Data statistics of these resources:
 
     *Siwon Kim, Sangdoo Yun, Hwaran Lee, Martin Gubri, Sungroh Yoon, Seong Joon Oh.* [[abs](https://arxiv.org/abs/2307.01881)], 2023.7
 
+22. **Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models.**
+
+    *Huachuan Qiu, Shuai Zhang, Anqi Li, Hongliang He, Zhenzhong Lan.* [[abs](https://arxiv.org/abs/2307.08487)],[[github]](https://github.com/qiuhuachuan/latent-jailbreak),, 2023.7
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -381,6 +385,11 @@ Data statistics of these resources:
 19. **Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews.**
  
     *Eugene Syriani, Istvan David, Gauransh Kumar.* [[abs](https://arxiv.org/abs/2307.06464)], 2023.7
+
+20. **L-Eval: Instituting Standardized Evaluation for Long Context Language Models.**
+ 
+    *Chenxin An, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu.* [[abs](https://arxiv.org/abs/2307.11088)], [[github](https://github.com/OpenLMLab/LEval)], 2023.7
+
 
 ### 2.4 Reasoning
 
@@ -487,7 +496,19 @@ Data statistics of these resources:
 26. **Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation From Deductive, Inductive and Abductive Views.**
  
     *Fangzhi Xu, Qika Lin, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria.* [[abs](https://arxiv.org/abs/2306.09841)], 2023.6
-    
+
+27. **Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation.**
+ 
+    *Ruiyang Ren, Yuhao Wang, Yingqi Qu, Wayne Xin Zhao, Jing Liu, Hao Tian, Hua Wu, Ji-Rong Wen, Haifeng Wang.* [[abs](https://arxiv.org/abs/2307.11019)],[[github](https://github.com/RUCAIBox/LLM-Knowledge-Boundary)] 2023.7
+
+28. **SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models.**
+ 
+    *Xiaoxuan Wang, Ziniu Hu, Pan Lu, Yanqiao Zhu, Jieyu Zhang, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang.* [[abs](https://arxiv.org/abs/2307.10635)],[[github](https://github.com/mandyyyyii/scibench)] 2023.7
+
+29. **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph.**
+ 
+    *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo.* [[abs](https://arxiv.org/abs/2307.07697)] 2023.7
+
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
@@ -757,6 +778,25 @@ Data statistics of these resources:
 
     *Jiatong Li, Yunqing Liu, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li.* [[abs](https://arxiv.org/abs/2306.06615)],[[github](https://github.com/phenixace/MolReGPT)] 2023.6
 
+18. **Comparative Performance Evaluation of Large Language Models for Extracting Molecular Interactions and Pathway Knowledge.**
+
+    *Gilchan Park, Byung-Jun Yoon, Xihaier Luo, Vanessa López-Marrero, Patrick Johnstone, Shinjae Yoo, Francis J. Alexander.* [[abs](https://arxiv.org/abs/2307.08813)],[[github](https://github.com/boxorange/BioIE-LLM)] 2023.7
+
+### 2.9 Uncertainty of Evaluating LLMs
+
+1. **ChatLog: Recording and Analyzing ChatGPT Across Time.**
+
+    *Shangqing Tu, Chunyang Li, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li.* [[abs](https://arxiv.org/abs/2304.14106)][[github](https://github.com/THU-KEG/ChatLog)], 2023.4
+
+2. **Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models.**
+
+    *Yuheng Huang, Jiayang Song, Zhijie Wang, Huaming Chen, Lei Ma.* [[abs](https://arxiv.org/abs/2307.10236)], 2023.7
+
+3. **How is ChatGPT's behavior changing over time?**
+
+    *Lingjiao Chen, Matei Zaharia, James Zou.* [[abs](https://arxiv.org/abs/2307.09009)][[github](https://github.com/lchen001/LLMDrift)], 2023.7
+
+
 #### Psychology
 
 
@@ -838,6 +878,9 @@ Data statistics of these resources:
 
    *Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu.* [[abs](https://arxiv.org/abs/2306.09525)], 2023.6
 
+3. **Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction.**
+
+   *Cong Jiang, Xiaolei Yang.* [[abs](https://arxiv.org/abs/2307.08321)], 2023.7
 
 #### Game
 
