@@ -575,6 +575,10 @@ Data statistics of these resources:
 
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)], [[github](https://github.com/UMass-Foundation-Model/Co-LLM-Agentss)], 2023.7
 
+17. **3D-LLM: Injecting the 3D World into Large Language Models.**
+
+    *Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.12981)], [[project](https://vis-www.cs.umass.edu/3dllm/)], 2023.7
+
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -632,6 +636,10 @@ Data statistics of these resources:
 14. **Product Information Extraction using ChatGPT.**
 
     *Alexander Brinkmann, Roee Shraga, Reng Chiz Der, Christian Bizer.* [[abs](https://arxiv.org/abs/2306.14921)], 2023.6
+
+15. **AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models.**
+
+    *Rui Zhang, Yixin Su, Bayu Distiawan Trisedya, Xiaoyan Zhao, Min Yang, Hong Cheng, Jianzhong Qi.* [[abs](https://arxiv.org/abs/2307.11772)], 2023.7
 
 ### 2.7 Machine Translation
 
@@ -840,6 +848,10 @@ Data statistics of these resources:
  
     *Zhuo Wang, Rongzhen Li, Bowen Dong, Jie Wang, Xiuxing Li, Ning Liu, Chenhui Mao, Wei Zhang, Liling Dong, Jing Gao, Jianyong Wang.* [[abs](https://arxiv.org/abs/2306.01499)], 2023.6
 
+11. **EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus.**
+ 
+    *Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie.* [[abs](https://arxiv.org/abs/2307.11760)], 2023.7
+
 #### Code
 
 1. **SelfEvolve: A Code Evolution Framework via Large Language Models.**
@@ -1045,6 +1057,10 @@ Data statistics of these resources:
 17. **Evade ChatGPT Detectors via A Single Space.**
 
     *Shuyang Cai, Wanyun Cui.* [[abs](https://arxiv.org/abs/2307.02599)], 2023.7
+
+18. **Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text.**
+
+    *Lingyi Yang, Feng Jiang, Haizhou Li.* [[abs](https://arxiv.org/abs/2307.11380)], 2023.7
 
 ### 3.2 Available Tools
 
