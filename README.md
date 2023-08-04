@@ -306,7 +306,11 @@ Data statistics of these resources:
 
 22. **Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models.**
 
-    *Huachuan Qiu, Shuai Zhang, Anqi Li, Hongliang He, Zhenzhong Lan.* [[abs](https://arxiv.org/abs/2307.08487)],[[github]](https://github.com/qiuhuachuan/latent-jailbreak),, 2023.7
+    *Huachuan Qiu, Shuai Zhang, Anqi Li, Hongliang He, Zhenzhong Lan.* [[abs](https://arxiv.org/abs/2307.08487)],[[github]](https://github.com/qiuhuachuan/latent-jailbreak), 2023.7
+
+23. **XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models.**
+
+    *Paul Röttger, Hannah Rose Kirk, Bertie Vidgen, Giuseppe Attanasio, Federico Bianchi, Dirk Hovy.* [[abs](https://arxiv.org/abs/2308.01263)], 2023.8
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -390,6 +394,9 @@ Data statistics of these resources:
  
     *Chenxin An, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu.* [[abs](https://arxiv.org/abs/2307.11088)], [[github](https://github.com/OpenLMLab/LEval)], 2023.7
 
+21. **LLM-Rec: Personalized Recommendation via Prompting Large Language Models.**
+ 
+    *Hanjia Lyu, Song Jiang, Hanqing Zeng, Yinglong Xia, Jiebo Luo.* [[abs](https://arxiv.org/abs/2307.15780)], 2023.7
 
 ### 2.4 Reasoning
 
@@ -509,6 +516,10 @@ Data statistics of these resources:
  
     *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Heung-Yeung Shum, Jian Guo.* [[abs](https://arxiv.org/abs/2307.07697)] 2023.7
 
+30. **Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models.**
+ 
+    *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen.* [[abs](https://arxiv.org/abs/2308.00304)] 2023.8
+
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
@@ -573,11 +584,15 @@ Data statistics of these resources:
 
 16. **Building Cooperative Embodied Agents Modularly with Large Language Models.**
 
-    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)], [[github](https://github.com/UMass-Foundation-Model/Co-LLM-Agentss)], 2023.7
+    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)], [[github](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)], 2023.7
 
 17. **3D-LLM: Injecting the 3D World into Large Language Models.**
 
     *Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.12981)], [[project](https://vis-www.cs.umass.edu/3dllm/)], 2023.7
+
+18. **SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension.**
+
+    *Bohao Li, Rui Wang, Guangzhi Wang, Yuying Ge, Yixiao Ge, Ying Shan.* [[abs](https://arxiv.org/abs/2307.16125)], [[github](https://github.com/AILab-CVC/SEED-Bench)], 2023.7
 
 ### 2.6 Information Extraction
 
@@ -804,6 +819,13 @@ Data statistics of these resources:
 
     *Lingjiao Chen, Matei Zaharia, James Zou.* [[abs](https://arxiv.org/abs/2307.09009)][[github](https://github.com/lchen001/LLMDrift)], 2023.7
 
+4. **Uncertainty in Natural Language Generation: From Theory to Applications.**
+
+    *Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz.* [[abs](https://arxiv.org/abs/2307.15703)] 2023.7
+
+5. **Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?**
+
+    *Ari Holtzman, Peter West, Luke Zettlemoyer.* [[abs](https://arxiv.org/abs/2308.00189)] 2023.8
 
 #### Psychology
 
@@ -852,6 +874,10 @@ Data statistics of these resources:
  
     *Cheng Li, Jindong Wang, Kaijie Zhu, Yixuan Zhang, Wenxin Hou, Jianxun Lian, Xing Xie.* [[abs](https://arxiv.org/abs/2307.11760)], 2023.7
 
+11. **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models.**
+ 
+    *Keyu Pan, Yawen Zeng.* [[abs](https://arxiv.org/abs/2307.16180)], 2023.7
+
 #### Code
 
 1. **SelfEvolve: A Code Evolution Framework via Large Language Models.**
@@ -873,6 +899,10 @@ Data statistics of these resources:
 5. **Unmasking the giant: A comprehensive evaluation of ChatGPT's proficiency in coding algorithms and data structures.**
 
    *Sayed Erfan Arefin, Tasnia Ashrafi Heya, Hasan Al-Qudah, Ynes Ineza, Abdul Serwadda.* [[abs](https://arxiv.org/abs/2307.05360)], 2023.7
+
+6. **ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation.**
+
+   *Xueying Du, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou.* [[abs](https://arxiv.org/abs/2308.01861)], 2023.8
 
 #### Finance
 
@@ -985,6 +1015,10 @@ Data statistics of these resources:
 12. **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena.**
 
     *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica.* [[abs](https://arxiv.org/abs/2306.05685)],[[github](https://github.com/lm-sys/FastChat/tree/main/llm-judge)], 2023.6
+
+13. **Wider and Deeper LLM Networks are Fairer LLM Evaluators.**
+
+    *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li.* [[abs](https://arxiv.org/abs/2308.01862)],[[github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep)], 2023.8
     
 #### Metrics for detecting ChatGPT
 
@@ -1061,6 +1095,19 @@ Data statistics of these resources:
 18. **Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text.**
 
     *Lingyi Yang, Feng Jiang, Haizhou Li.* [[abs](https://arxiv.org/abs/2307.11380)], 2023.7
+
+19. **Robust Distortion-free Watermarks for Language Models.**
+
+    *Rohith Kuditipudi, John Thickstun, Tatsunori Hashimoto, Percy Liang.* [[abs](https://arxiv.org/abs/2307.15593)], 2023.7
+
+20. **Towards Codable Text Watermarking for Large Language Models.**
+
+    *Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun.* [[abs](https://arxiv.org/abs/2307.15992)], 2023.7
+
+21. **Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text**
+
+    *Amrita Bhattacharjee, Huan Liu.* [[abs](https://arxiv.org/abs/2308.01284)], [[github](https://github.com/AmritaBh/ChatGPT-as-Detector)], 2023.8
+
 
 ### 3.2 Available Tools
 
