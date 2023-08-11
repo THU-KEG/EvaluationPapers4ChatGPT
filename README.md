@@ -218,6 +218,15 @@ Data statistics of these resources:
 
     *Hamideh Ghanadian, Isar Nejadgholi, Hussein Al Osman.* [[abs](https://arxiv.org/abs/2306.09390)], 2023.6
 
+24. **Metacognitive Prompting Improves Understanding in Large Language Models.**
+
+    *Yuqing Wang, Yun Zhao.* [[abs](https://arxiv.org/abs/2308.05342)],[[github](https://github.com/EternityYW/Metacognitive-Prompting)], 2023.8
+
+
+25. **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.**
+
+    *Fahim Dalvi, Maram Hasanain, Sabri Boughorbel, Basel Mousi, Samir Abdaljalil, Nizi Nazar, Ahmed Abdelali, Shammur Absar Chowdhury, Hamdy Mubarak, Ahmed Ali, Majd Hawasly, Nadir Durrani, Firoj Alam.* [[abs](https://arxiv.org/abs/2308.04945)],[[github](https://github.com/qcri/LLMeBench/)], 2023.8
+
 ### 2.2 Ethics and Bias
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
@@ -594,6 +603,10 @@ Data statistics of these resources:
 
     *Bohao Li, Rui Wang, Guangzhi Wang, Yuying Ge, Yixiao Ge, Ying Shan.* [[abs](https://arxiv.org/abs/2307.16125)], [[github](https://github.com/AILab-CVC/SEED-Bench)], 2023.7
 
+19. **AgentBench: Evaluating LLMs as Agents.**
+
+    *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang.* [[abs](https://arxiv.org/abs/2308.03688)], [[github](https://github.com/THUDM/AgentBench)], 2023.8
+
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
@@ -655,6 +668,10 @@ Data statistics of these resources:
 15. **AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models.**
 
     *Rui Zhang, Yixin Su, Bayu Distiawan Trisedya, Xiaoyan Zhao, Min Yang, Hong Cheng, Jianzhong Qi.* [[abs](https://arxiv.org/abs/2307.11772)], 2023.7
+
+16. **UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition.**
+
+    *Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon.* [[abs](https://arxiv.org/abs/2308.03279)], [[github](https://universal-ner.github.io/)], 2023.8
 
 ### 2.7 Machine Translation
 
@@ -804,6 +821,10 @@ Data statistics of these resources:
 18. **Comparative Performance Evaluation of Large Language Models for Extracting Molecular Interactions and Pathway Knowledge.**
 
     *Gilchan Park, Byung-Jun Yoon, Xihaier Luo, Vanessa López-Marrero, Patrick Johnstone, Shinjae Yoo, Francis J. Alexander.* [[abs](https://arxiv.org/abs/2307.08813)],[[github](https://github.com/boxorange/BioIE-LLM)] 2023.7
+
+18. **Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links.**
+
+    *Ahmed Abdeen Hamed, Alessandro Crimi, Magdalena M. Misiak, Byung Suk Lee.* [[abs](https://arxiv.org/abs/2308.03929)] 2023.8
 
 ### 2.9 Uncertainty of Evaluating LLMs
 
@@ -1019,7 +1040,11 @@ Data statistics of these resources:
 13. **Wider and Deeper LLM Networks are Fairer LLM Evaluators.**
 
     *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li.* [[abs](https://arxiv.org/abs/2308.01862)],[[github](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/WideDeep)], 2023.8
-    
+
+14. **Learning Evaluation Models from Large Language Models for Sequence Generation.**
+
+    *Chenglong Wang, Hang Zhou, Kaiyan Chang, Tongran Liu, Chunliang Zhang, Quan Du, Tong Xiao, Jingbo Zhu.* [[abs](https://arxiv.org/abs/2308.04386)], 2023.8
+   
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
