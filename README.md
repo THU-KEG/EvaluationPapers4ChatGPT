@@ -607,6 +607,9 @@ Data statistics of these resources:
 
     *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang.* [[abs](https://arxiv.org/abs/2308.03688)], [[github](https://github.com/THUDM/AgentBench)], 2023.8
 
+20. **Uncovering Language Disparity of ChatGPT in Healthcare: Non-English Clinical Environment for Retinal Vascular Disease Classification.**
+    *Xiaocong Liu, Jiageng Wu, An Shao, Wenyue Shen, Panpan Ye, Yao Wang, Juan Ye, Kai Jin, Jie Yang.* [[abs]([https://arxiv.org/abs/2307.02469](https://www.medrxiv.org/content/10.1101/2023.06.28.23291931v2))], 2023.6 
+
 ### 2.6 Information Extraction
 
 1. **Zero-Shot Information Extraction via Chatting with ChatGPT.**
