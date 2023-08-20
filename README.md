@@ -831,27 +831,9 @@ Data statistics of these resources:
 
     *Xiaocong Liu, Jiageng Wu, An Shao, Wenyue Shen, Panpan Ye, Yao Wang, Juan Ye, Kai Jin, Jie Yang.* [[abs](https://www.medrxiv.org/content/10.1101/2023.06.28.23291931v2)], 2023.6
 
-### 2.9 Uncertainty of Evaluating LLMs
+21. **LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation.**  
 
-1. **ChatLog: Recording and Analyzing ChatGPT Across Time.**
-
-    *Shangqing Tu, Chunyang Li, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li.* [[abs](https://arxiv.org/abs/2304.14106)][[github](https://github.com/THU-KEG/ChatLog)], 2023.4
-
-2. **Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models.**
-
-    *Yuheng Huang, Jiayang Song, Zhijie Wang, Huaming Chen, Lei Ma.* [[abs](https://arxiv.org/abs/2307.10236)], 2023.7
-
-3. **How is ChatGPT's behavior changing over time?**
-
-    *Lingjiao Chen, Matei Zaharia, James Zou.* [[abs](https://arxiv.org/abs/2307.09009)][[github](https://github.com/lchen001/LLMDrift)], 2023.7
-
-4. **Uncertainty in Natural Language Generation: From Theory to Applications.**
-
-    *Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz.* [[abs](https://arxiv.org/abs/2307.15703)] 2023.7
-
-5. **Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?**
-
-    *Ari Holtzman, Peter West, Luke Zettlemoyer.* [[abs](https://arxiv.org/abs/2308.00189)] 2023.8
+    *Xiaoming Shi, Jie Xu, Jinru Ding, Jiali Pang, Sichen Liu, Shuqing Luo, Xingwei Peng, Lu Lu, Haihong Yang, Mingtao Hu, Tong Ruan, Shaoting Zhang.* [[abs](https://arxiv.org/abs/2308.07635)], 2023.8
 
 #### Psychology
 
@@ -950,6 +932,10 @@ Data statistics of these resources:
 
    *Cong Jiang, Xiaolei Yang.* [[abs](https://arxiv.org/abs/2307.08321)], 2023.7
 
+4. **Large Language Models in Cryptocurrency Securities Cases: Can ChatGPT Replace Lawyers?**
+
+   *Arianna Trozze, Toby Davies, Bennett Kleinberg.* [[abs](https://arxiv.org/abs/2308.06032)], 2023.8
+
 #### Game
 
 1. **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions.**
@@ -971,6 +957,32 @@ Data statistics of these resources:
 1. **ChatGPT for Robotics: Design Principles and Model Abilities.**
 
    *Sai Vemprala, Rogerio Bonatti, Arthur Bucker, Ashish Kapoor.* [[abs](https://arxiv.org/abs/2306.11892)],[[github](https://github.com/microsoft/PromptCraft-Robotics)], 2023.6
+
+### 2.9 Uncertainty of Evaluating LLMs
+
+1. **ChatLog: Recording and Analyzing ChatGPT Across Time.**
+
+    *Shangqing Tu, Chunyang Li, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li.* [[abs](https://arxiv.org/abs/2304.14106)][[github](https://github.com/THU-KEG/ChatLog)], 2023.4
+
+2. **Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models.**
+
+    *Yuheng Huang, Jiayang Song, Zhijie Wang, Huaming Chen, Lei Ma.* [[abs](https://arxiv.org/abs/2307.10236)], 2023.7
+
+3. **How is ChatGPT's behavior changing over time?**
+
+    *Lingjiao Chen, Matei Zaharia, James Zou.* [[abs](https://arxiv.org/abs/2307.09009)][[github](https://github.com/lchen001/LLMDrift)], 2023.7
+
+4. **Uncertainty in Natural Language Generation: From Theory to Applications.**
+
+    *Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz.* [[abs](https://arxiv.org/abs/2307.15703)] 2023.7
+
+5. **Generative Models as a Complex Systems Science: How can we make sense of large language model behavior?**
+
+    *Ari Holtzman, Peter West, Luke Zettlemoyer.* [[abs](https://arxiv.org/abs/2308.00189)] 2023.8
+
+6. **Time Travel in LLMs: Tracing Data Contamination in Large Language Models.**
+
+    *Shahriar Golchin, Mihai Surdeanu.* [[abs](https://arxiv.org/abs/2308.08493)] 2023.8
 
 
 ## 3. Detection Tools
@@ -1049,6 +1061,15 @@ Data statistics of these resources:
 14. **Learning Evaluation Models from Large Language Models for Sequence Generation.**
 
     *Chenglong Wang, Hang Zhou, Kaiyan Chang, Tongran Liu, Chunliang Zhang, Quan Du, Tong Xiao, Jingbo Zhu.* [[abs](https://arxiv.org/abs/2308.04386)], 2023.8
+
+15. **ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate.**
+
+    *Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu.* [[abs](https://arxiv.org/abs/2308.07201)], 2023.8
+
+16. **The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation.**
+
+    *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat.* [[abs](https://arxiv.org/abs/2308.07286)], 2023.8
+
    
 #### Metrics for detecting ChatGPT
 
