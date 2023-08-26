@@ -49,6 +49,9 @@ This repository stores Dataset Resources, Evaluation Papers and Detection Tools 
 
    *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.* [[abs](https://arxiv.org/abs/2307.03109)], 2023.7
 
+5. **GPTEval: A Survey on Assessments of ChatGPT and GPT-4.**
+
+   *Rui Mao, Guanyi Chen, Xulang Zhang, Frank Guerin, Erik Cambria.* [[abs](https://arxiv.org/abs/2308.12488)], 2023.8
 
 ## 1. Dataset Resource
 
@@ -529,6 +532,14 @@ Data statistics of these resources:
  
     *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen.* [[abs](https://arxiv.org/abs/2308.00304)] 2023.8
 
+31. **Large Language Models Sensitivity to The Order of Options in Multiple-Choice Questions.**
+ 
+    *Pouya Pezeshkpour, Estevam Hruschka.* [[abs](https://arxiv.org/abs/2308.11483)] 2023.8
+
+32. **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis.**
+ 
+    *Chang Liu, Bo Wu.* [[abs](https://arxiv.org/abs/2308.11224)],[[github](https://github.com/Ayame1006/LLMtoGraph)] 2023.8
+
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
@@ -606,6 +617,10 @@ Data statistics of these resources:
 19. **AgentBench: Evaluating LLMs as Agents.**
 
     *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang.* [[abs](https://arxiv.org/abs/2308.03688)], [[github](https://github.com/THUDM/AgentBench)], 2023.8
+
+20. **A Survey on Large Language Model based Autonomous Agents.**
+
+    *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2308.11432)], [[github](https://github.com/Paitesanshi/LLM-Agent-Survey)], 2023.8
 
 
 ### 2.6 Information Extraction
@@ -936,6 +951,10 @@ Data statistics of these resources:
 
    *Arianna Trozze, Toby Davies, Bennett Kleinberg.* [[abs](https://arxiv.org/abs/2308.06032)], 2023.8
 
+5. **LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models.**
+
+   *Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher Ré, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters, Brandon Waldon, Daniel N. Rockmore, Diego Zambrano, Dmitry Talisman, Enam Hoque, Faiz Surani, Frank Fagan, Galit Sarfaty, Gregory M. Dickinson, Haggai Porat, Jason Hegland, Jessica Wu, Joe Nudell, Joel Niklaus, John Nay, Jonathan H. Choi, Kevin Tobia, Margaret Hagan, Megan Ma, Michael Livermore, Nikon Rasumov-Rahe, Nils Holzenberger, Noam Kolt, Peter Henderson, Sean Rehaag, Sharad Goel, Shang Gao, Spencer Williams, Sunny Gandhi, Tom Zur, Varun Iyer, Zehua Li.* [[abs](https://arxiv.org/abs/2308.11462)],[[github](https://github.com/HazyResearch/legalbench/)], 2023.8
+
 #### Game
 
 1. **Can Large Language Models Play Text Games Well? Current State-of-the-Art and Open Questions.**
@@ -945,6 +964,10 @@ Data statistics of these resources:
 2. **Solving and Generating NPR Sunday Puzzles with Large Language Models.**
 
    *Jingmiao Zhao, Carolyn Jane Anderson.* [[abs](https://arxiv.org/abs/2306.12255)], 2023.6
+
+3. **Are ChatGPT and GPT-4 Good Poker Players? -- A Pre-Flop Analysis.**
+
+   *Akshat Gupta.* [[abs](https://arxiv.org/abs/2308.12466)], 2023.8
 
 #### Food
 
@@ -957,6 +980,13 @@ Data statistics of these resources:
 1. **ChatGPT for Robotics: Design Principles and Model Abilities.**
 
    *Sai Vemprala, Rogerio Bonatti, Arthur Bucker, Ashish Kapoor.* [[abs](https://arxiv.org/abs/2306.11892)],[[github](https://github.com/microsoft/PromptCraft-Robotics)], 2023.6
+
+#### Anime
+
+1. **ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.**
+
+   *Cheng Li, Ziang Leng, Chenxi Yan, Junyi Shen, Hao Wang, Weishi MI, Yaying Fei, Xiaoyang Feng, Song Yan, HaoSheng Wang, Linkang Zhan, Yaokai Jia, Pingyu Wu, Haozhen Sun.* [[abs](https://arxiv.org/abs/2308.09597)],[[github](https://github.com/LC1332/Chat-Haruhi-Suzumiya)], 2023.8
+
 
 ### 2.9 Uncertainty of Evaluating LLMs
 
