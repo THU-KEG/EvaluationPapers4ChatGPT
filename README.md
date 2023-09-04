@@ -230,6 +230,11 @@ Data statistics of these resources:
 
     *Fahim Dalvi, Maram Hasanain, Sabri Boughorbel, Basel Mousi, Samir Abdaljalil, Nizi Nazar, Ahmed Abdelali, Shammur Absar Chowdhury, Hamdy Mubarak, Ahmed Ali, Majd Hawasly, Nadir Durrani, Firoj Alam.* [[abs](https://arxiv.org/abs/2308.04945)],[[github](https://github.com/qcri/LLMeBench/)], 2023.8
 
+26. **ZhuJiu: A Multi-dimensional, Multi-faceted Chinese Benchmark for Large Language Models.**
+
+    *Baoli Zhang, Haining Xie, Pengfan Du, Junhao Chen, Pengfei Cao, Yubo Chen, Shengping Liu, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2308.14353)],[[github](http://www.zhujiu-benchmark.com/)], 2023.8
+
+
 ### 2.2 Ethics and Bias
 
 1. **Exploring AI Ethics of ChatGPT: A Diagnostic Analysis.**
@@ -410,6 +415,10 @@ Data statistics of these resources:
  
     *Hanjia Lyu, Song Jiang, Hanqing Zeng, Yinglong Xia, Jiebo Luo.* [[abs](https://arxiv.org/abs/2307.15780)], 2023.7
 
+22. **LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding.**
+ 
+    *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* [[abs](https://arxiv.org/abs/2308.14508)], [[github](https://github.com/THUDM/LongBench)], 2023.8
+
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
@@ -539,6 +548,10 @@ Data statistics of these resources:
 32. **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis.**
  
     *Chang Liu, Bo Wu.* [[abs](https://arxiv.org/abs/2308.11224)],[[github](https://github.com/Ayame1006/LLMtoGraph)] 2023.8
+
+33. **Large Language Models on the Chessboard: A Study on ChatGPT's Formal Language Comprehension and Complex Reasoning Skills.**
+ 
+    *Mu-Tien Kuo, Chih-Chung Hsueh, Richard Tzong-Han Tsai.* [[abs](https://arxiv.org/abs/2308.15118)] 2023.8
 
 ### 2.5 Multimodal
 
@@ -688,6 +701,10 @@ Data statistics of these resources:
 16. **UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition.**
 
     *Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon.* [[abs](https://arxiv.org/abs/2308.03279)], [[github](https://universal-ner.github.io/)], 2023.8
+
+17. **Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering.**
+
+    *Lars-Peter Meyer, Johannes Frey, Kurt Junghanns, Felix Brei, Kirill Bulert, Sabine Gründer-Fahrer, Michael Martin.* [[abs](https://arxiv.org/abs/2308.16622)], [[github](https://github.com/AKSW/LLM-KG-Bench)], 2023.8
 
 ### 2.7 Machine Translation
 
