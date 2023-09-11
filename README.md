@@ -234,6 +234,9 @@ Data statistics of these resources:
 
     *Baoli Zhang, Haining Xie, Pengfan Du, Junhao Chen, Pengfei Cao, Yubo Chen, Shengping Liu, Kang Liu, Jun Zhao.* [[abs](https://arxiv.org/abs/2308.14353)],[[github](http://www.zhujiu-benchmark.com/)], 2023.8
 
+27. **A Function Interpretation Benchmark for Evaluating Interpretability Methods.**
+
+    *Sarah Schwettmann, Tamar Rott Shaham, Joanna Materzynska, Neil Chowdhury, Shuang Li, Jacob Andreas, David Bau, Antonio Torralba.* [[abs](https://arxiv.org/abs/2309.03886)], 2023.9
 
 ### 2.2 Ethics and Bias
 
@@ -328,6 +331,11 @@ Data statistics of these resources:
 23. **XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models.**
 
     *Paul Röttger, Hannah Rose Kirk, Bertie Vidgen, Giuseppe Attanasio, Federico Bianchi, Dirk Hovy.* [[abs](https://arxiv.org/abs/2308.01263)], 2023.8
+
+24. **On Large Language Models' Selection Bias in Multi-Choice Questions.**
+
+    *Chujie Zheng, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang.* [[abs](https://arxiv.org/abs/2309.03882)], 2023.9
+
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -705,6 +713,10 @@ Data statistics of these resources:
 17. **Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering.**
 
     *Lars-Peter Meyer, Johannes Frey, Kurt Junghanns, Felix Brei, Kirill Bulert, Sabine Gründer-Fahrer, Michael Martin.* [[abs](https://arxiv.org/abs/2308.16622)], [[github](https://github.com/AKSW/LLM-KG-Bench)], 2023.8
+
+18. **ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning.**
+
+    *Linhao Luo, Jiaxin Ju, Bo Xiong, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan.* [[abs](https://arxiv.org/abs/2309.01538)], 2023.9
 
 ### 2.7 Machine Translation
 
@@ -1206,6 +1218,9 @@ Data statistics of these resources:
 
     *Amrita Bhattacharjee, Huan Liu.* [[abs](https://arxiv.org/abs/2308.01284)], [[github](https://github.com/AmritaBh/ChatGPT-as-Detector)], 2023.8
 
+22. **HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus.**
+
+    *Zhenpeng Su, Xing Wu, Wei Zhou, Guangyuan Ma, Songlin Hu.* [[abs](https://arxiv.org/abs/2309.02731)], 2023.9
 
 ### 3.2 Available Tools
 
