@@ -336,6 +336,10 @@ Data statistics of these resources:
 
     *Chujie Zheng, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang.* [[abs](https://arxiv.org/abs/2309.03882)], 2023.9
 
+25. **SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions.**
+
+    *Zhexin Zhang, Leqi Lei, Lindong Wu, Rui Sun, Yongkang Huang, Chong Long, Xiao Liu, Xuanyu Lei, Jie Tang, Minlie Huang.* [[abs](https://arxiv.org/abs/2309.07045)], 2023.9
+
 
 ### 2.3 Long Text Summarization and Information Retrieval
 
@@ -756,6 +760,14 @@ Data statistics of these resources:
 
    *Wayne Yang, Garrett Nicolai.* [[abs](https://arxiv.org/abs/2307.05779)], 2023.7
 
+10. **ChatGPT MT: Competitive for High- (but not Low-) Resource Languages.**
+
+    *Nathaniel R. Robinson, Perez Ogayo, David R. Mortensen, Graham Neubig.* [[abs](https://arxiv.org/abs/2309.07423)], 2023.9
+
+11. **BHASA: A Holistic Southeast Asian Linguistic and Cultural Evaluation Suite for Large Language Models.**
+
+    *Wei Qi Leong, Jian Gang Ngui, Yosephine Susanto, Hamsawardhini Rengarajan, Kengatharaiyer Sarveswaran, William Chandra Tjhi.* [[abs](https://arxiv.org/abs/2309.06085)], 2023.9
+
 ### 2.8 Other Domains
 
 #### Education
@@ -1165,62 +1177,72 @@ Data statistics of these resources:
 8. **Differentiate ChatGPT-generated and Human-written Medical Texts.**
 
    *Wenxiong Liao, Zhengliang Liu, Haixing Dai, Shaochen Xu, Zihao Wu, Yiyang Zhang, Xiaoke Huang, Dajiang Zhu, Hongmin Cai, Tianming Liu, Xiang Li.* [[abs](https://arxiv.org/abs/2304.11567)], 2023.4
-   
-9. **Bot or Human? Detecting ChatGPT Imposters with A Single Question.**
 
-   *Hong Wang, Xuan Luo, Weizhi Wang, Xifeng Yan.* [[abs](https://arxiv.org/abs/2305.06424)],[[github](https://github.com/hongwang600/FLAIR)], 2023.5
+9. **ChatLog: Recording and Analyzing ChatGPT Across Time.**
+
+    *Shangqing Tu, Chunyang Li, Jifan Yu, Xiaozhi Wang, Lei Hou, Juanzi Li.* [[abs](https://arxiv.org/abs/2304.14106)][[github](https://github.com/THU-KEG/ChatLog)], 2023.4
+   
+10. **Bot or Human? Detecting ChatGPT Imposters with A Single Question.**
+
+    *Hong Wang, Xuan Luo, Weizhi Wang, Xifeng Yan.* [[abs](https://arxiv.org/abs/2305.06424)],[[github](https://github.com/hongwang600/FLAIR)], 2023.5
  
-10. **GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content.**
+11. **GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content.**
 
     *Yutian Chen, Hao Kang, Vivian Zhai, Liangze Li, Rita Singh, Bhiksha Ramakrishnan.* [[abs](https://arxiv.org/abs/2305.07969)], 2023.5
 
-11. **Large Language Models can be Guided to Evade AI-Generated Text Detection.**
+12. **Large Language Models can be Guided to Evade AI-Generated Text Detection.**
 
     *Ning Lu, Shengcai Liu, Rui He, Ke Tang.* [[abs](https://arxiv.org/abs/2305.10847)], 2023.5
 
-12. **G3Detector: General GPT-Generated Text Detector.**
+13. **G3Detector: General GPT-Generated Text Detector.**
 
     *Haolan Zhan, Xuanli He, Qiongkai Xu, Yuxiang Wu, Pontus Stenetorp.* [[abs](https://arxiv.org/abs/2305.12680)], 2023.5
 
-13. **GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance.**
+14. **GPT Paternity Test: GPT Generated Text Detection with GPT Genetic Inheritance.**
 
     *Xiao Yu, Yuang Qi, Kejiang Chen, Guoqiang Chen, Xi Yang, Pengyuan Zhu, Weiming Zhang, Nenghai Yu.* [[abs](https://arxiv.org/abs/2305.12519)], 2023.5
 
-14. **On the Reliability of Watermarks for Large Language Models.**
+15. **On the Reliability of Watermarks for Large Language Models.**
 
     *John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein.* [[abs](https://arxiv.org/abs/2306.04634)], 2023.6
 
-15. **Implementing BERT and fine-tuned RobertA to detect AI generated news by ChatGPT.**
+16. **Implementing BERT and fine-tuned RobertA to detect AI generated news by ChatGPT.**
 
     *Zecong Wang, Jiaxi Cheng, Chen Cui, Chenhao Yu.* [[abs](https://arxiv.org/abs/2306.07401)], 2023.6
 
-16. **Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?**
+17. **Towards a Robust Detection of Language Model Generated Text: Is ChatGPT that Easy to Detect?**
 
     *Wissam Antoun, Virginie Mouilleron, Benoît Sagot, Djamé Seddah.* [[abs](https://arxiv.org/abs/2306.05871)], 2023.6
 
-17. **Evade ChatGPT Detectors via A Single Space.**
+18. **Evade ChatGPT Detectors via A Single Space.**
 
     *Shuyang Cai, Wanyun Cui.* [[abs](https://arxiv.org/abs/2307.02599)], 2023.7
 
-18. **Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text.**
+19. **Is ChatGPT Involved in Texts? Measure the Polish Ratio to Detect ChatGPT-Generated Text.**
 
     *Lingyi Yang, Feng Jiang, Haizhou Li.* [[abs](https://arxiv.org/abs/2307.11380)], 2023.7
 
-19. **Robust Distortion-free Watermarks for Language Models.**
+20. **Robust Distortion-free Watermarks for Language Models.**
 
     *Rohith Kuditipudi, John Thickstun, Tatsunori Hashimoto, Percy Liang.* [[abs](https://arxiv.org/abs/2307.15593)], 2023.7
 
-20. **Towards Codable Text Watermarking for Large Language Models.**
+21. **Towards Codable Text Watermarking for Large Language Models.**
 
     *Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun.* [[abs](https://arxiv.org/abs/2307.15992)], 2023.7
 
-21. **Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text**
+22. **Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text**
 
     *Amrita Bhattacharjee, Huan Liu.* [[abs](https://arxiv.org/abs/2308.01284)], [[github](https://github.com/AmritaBh/ChatGPT-as-Detector)], 2023.8
 
-22. **HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus.**
+23. **HC3 Plus: A Semantic-Invariant Human ChatGPT Comparison Corpus.**
 
     *Zhenpeng Su, Xing Wu, Wei Zhou, Guangyuan Ma, Songlin Hu.* [[abs](https://arxiv.org/abs/2309.02731)], 2023.9
+
+24. **Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text.**
+
+    *Mahdi Dhaini, Wessel Poelman, Ege Erdogan.* [[abs](https://arxiv.org/abs/2309.07689)], 2023.9
+
+
 
 ### 3.2 Available Tools
 
