@@ -431,6 +431,10 @@ Data statistics of these resources:
  
     *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* [[abs](https://arxiv.org/abs/2308.14508)], [[github](https://github.com/THUDM/LongBench)], 2023.8
 
+23. **Can Large Language Models Understand Real-World Complex Instructions?**
+ 
+    *Qianyu He, Jie Zeng, Wenhao Huang, Lina Chen, Jin Xiao, Qianxi He, Xunzhe Zhou, Lida Chen, Xintao Wang, Yuncheng Huang, Haoning Ye, Zihan Li, Shisong Chen, Yikai Zhang, Zhouhong Gu, Jiaqing Liang, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2309.09150)],[[github](https://github.com/Abbey4799/CELLO)] 2023.9
+
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
@@ -564,6 +568,10 @@ Data statistics of these resources:
 33. **Large Language Models on the Chessboard: A Study on ChatGPT's Formal Language Comprehension and Complex Reasoning Skills.**
  
     *Mu-Tien Kuo, Chih-Chung Hsueh, Richard Tzong-Han Tsai.* [[abs](https://arxiv.org/abs/2308.15118)] 2023.8
+
+34. **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback.**
+ 
+    *Xingyao Wang, Zihan Wang, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng, Heng Ji.* [[abs](https://arxiv.org/abs/2309.10691)],[[github](https://xingyaoww.github.io/mint-bench/)] 2023.9
 
 ### 2.5 Multimodal
 
