@@ -573,6 +573,15 @@ Data statistics of these resources:
  
     *Xingyao Wang, Zihan Wang, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng, Heng Ji.* [[abs](https://arxiv.org/abs/2309.10691)],[[github](https://xingyaoww.github.io/mint-bench/)] 2023.9
 
+35. **NLPBench: Evaluating Large Language Models on Solving NLP Problems.**
+ 
+    *Linxin Song, Jieyu Zhang, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene Li.* [[abs](https://arxiv.org/abs/2309.15630)],[[github](https://github.com/LinxinS97/NLPBench/)] 2023.9
+
+36. **Evaluating Cognitive Maps and Planning in Large Language Models with CogEvals.**
+ 
+    *Ida Momennejad, Hosein Hasanbeig, Felipe Vieira, Hiteshi Sharma, Robert Osazuwa Ness, Nebojsa Jojic, Hamid Palangi, Jonathan Larson.* [[abs](https://arxiv.org/abs/2309.15129)] 2023.9
+
+
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
@@ -811,6 +820,10 @@ Data statistics of these resources:
 8. **Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives.**
 
    *Pragnya Sridhar, Aidan Doyle, Arav Agarwal, Christopher Bogart, Jaromir Savelka, Majd Sakr.* [[abs](https://arxiv.org/abs/2306.17459)], 2023.6
+
+9. **ChEDDAR: Student-ChatGPT Dialogue in EFL Writing Education.**
+
+   *Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh.* [[abs](https://arxiv.org/abs/2309.13243)],[[github](https://github.com/zeunie/ChEDDAR)] 2023.9
 
 #### Biology
 
