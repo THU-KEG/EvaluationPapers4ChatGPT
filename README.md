@@ -581,6 +581,9 @@ Data statistics of these resources:
  
     *Ida Momennejad, Hosein Hasanbeig, Felipe Vieira, Hiteshi Sharma, Robert Osazuwa Ness, Nebojsa Jojic, Hamid Palangi, Jonathan Larson.* [[abs](https://arxiv.org/abs/2309.15129)] 2023.9
 
+37. **Large Language Models Cannot Self-Correct Reasoning Yet.**
+ 
+    *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou.* [[abs](https://arxiv.org/abs/2310.01798)] 2023.10
 
 ### 2.5 Multimodal
 
@@ -963,6 +966,11 @@ Data statistics of these resources:
  
     *Keyu Pan, Yawen Zeng.* [[abs](https://arxiv.org/abs/2307.16180)], 2023.7
 
+
+12. **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench.**
+ 
+    *Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho Lam, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu.* [[abs](https://arxiv.org/abs/2310.01386)], [[github](https://github.com/CUHK-ARISE/PsychoBench)], 2023.10
+
 #### Code
 
 1. **SelfEvolve: A Code Evolution Framework via Large Language Models.**
@@ -1162,7 +1170,14 @@ Data statistics of these resources:
 
     *Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat.* [[abs](https://arxiv.org/abs/2308.07286)], 2023.8
 
-   
+17. **T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation.**
+
+    *Yuze He, Yushi Bai, Matthieu Lin, Wang Zhao, Yubin Hu, Jenny Sheng, Ran Yi, Juanzi Li, Yong-Jin Liu.* [[abs](https://arxiv.org/abs/2310.02977)],[[github](https://t3bench.com/)], 2023.10
+
+18. **Benchmarking Cognitive Biases in Large Language Models as Evaluators.**
+
+    *Ryan Koo, Minhwa Lee, Vipul Raheja, Jong Inn Park, Zae Myung Kim, Dongyeop Kang.* [[abs](https://arxiv.org/abs/2309.17012)],[[github](https://minnesotanlp.github.io/cobbler/)], 2023.10
+
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
@@ -1262,6 +1277,10 @@ Data statistics of these resources:
 24. **Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text.**
 
     *Mahdi Dhaini, Wessel Poelman, Ege Erdogan.* [[abs](https://arxiv.org/abs/2309.07689)], 2023.9
+
+25. **On the Generalization of Training-based ChatGPT Detection Methods.**
+
+    *Han Xu, Jie Ren, Pengfei He, Shenglai Zeng, Yingqian Cui, Amy Liu, Hui Liu, Jiliang Tang.* [[abs](https://arxiv.org/abs/2310.01307)], [[github](https://github.com/hannxu123/hcvar)], 2023.10
 
 
 
