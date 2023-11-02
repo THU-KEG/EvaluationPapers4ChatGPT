@@ -435,6 +435,10 @@ Data statistics of these resources:
  
     *Qianyu He, Jie Zeng, Wenhao Huang, Lina Chen, Jin Xiao, Qianxi He, Xunzhe Zhou, Lida Chen, Xintao Wang, Yuncheng Huang, Haoning Ye, Zihan Li, Shisong Chen, Yikai Zhang, Zhouhong Gu, Jiaqing Liang, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2309.09150)],[[github](https://github.com/Abbey4799/CELLO)] 2023.9
 
+24. **S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models.**
+ 
+    *Fangyu Lei, Qian Liu, Yiming Huang, Shizhu He, Jun Zhao, Kang Liu.* [[abs](https://arxiv.org/abs/2310.15147)],[[github](https://github.com/lfy79001/S3Eval)] 2023.10
+
 ### 2.4 Reasoning
 
 1. **Mathematical Capabilities of ChatGPT.**
@@ -1178,6 +1182,12 @@ Data statistics of these resources:
 
     *Ryan Koo, Minhwa Lee, Vipul Raheja, Jong Inn Park, Zae Myung Kim, Dongyeop Kang.* [[abs](https://arxiv.org/abs/2309.17012)],[[github](https://minnesotanlp.github.io/cobbler/)], 2023.10
 
+
+19. **Are Large Language Models Reliable Judges? A Study on the Factuality Evaluation Capabilities of LLMs.**
+
+    *Xue-Yong Fu, Md Tahmid Rahman Laskar, Cheng Chen, Shashi Bhushan TN.* [[abs](https://arxiv.org/abs/2311.00681)], 2023.11
+
+
 #### Metrics for detecting ChatGPT
 
 1. **AI vs. Human -- Differentiation Analysis of Scientific Content Generation.**
@@ -1281,6 +1291,10 @@ Data statistics of these resources:
 25. **On the Generalization of Training-based ChatGPT Detection Methods.**
 
     *Han Xu, Jie Ren, Pengfei He, Shenglai Zeng, Yingqian Cui, Amy Liu, Hui Liu, Jiliang Tang.* [[abs](https://arxiv.org/abs/2310.01307)], [[github](https://github.com/hannxu123/hcvar)], 2023.10
+
+26. **Does GPT-4 Pass the Turing Test?**
+
+    *Cameron Jones, Benjamin Bergen.* [[abs](https://arxiv.org/abs/2310.20216)], 2023.10
 
 
 
