@@ -671,6 +671,9 @@ Data statistics of these resources:
 
     *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2308.11432)], [[github](https://github.com/Paitesanshi/LLM-Agent-Survey)], 2023.8
 
+21. **PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion.**
+
+    *Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Duan Nan.* [[abs](https://arxiv.org/abs/2311.01767)], [[github](https://github.com/gydpku/PPTC)], 2023.11
 
 ### 2.6 Information Extraction
 
@@ -1088,6 +1091,9 @@ Data statistics of these resources:
 
     *Shahriar Golchin, Mihai Surdeanu.* [[abs](https://arxiv.org/abs/2308.08493)] 2023.8
 
+7. **Don't Make Your LLM an Evaluation Benchmark Cheater.**
+
+    *Kun Zhou, Yutao Zhu, Zhipeng Chen, Wentong Chen, Wayne Xin Zhao, Xu Chen, Yankai Lin, Ji-Rong Wen, Jiawei Han.* [[abs](https://arxiv.org/abs/2311.01964)] 2023.11
 
 ## 3. Detection Tools
 
