@@ -589,6 +589,14 @@ Data statistics of these resources:
  
     *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou.* [[abs](https://arxiv.org/abs/2310.01798)] 2023.10
 
+38. **MacGyver: Are Large Language Models Creative Problem Solvers?.**
+
+    *Yufei Tian, Abhilasha Ravichander, Lianhui Qin, Ronan Le Bras, Raja Marjieh, Nanyun Peng, Yejin Choi, Thomas L. Griffiths, Faeze Brahman.* [[abs](https://arxiv.org/abs/2311.09682)], 2023.11
+
+39. **Language Models can be Logical Solvers.**
+
+    *Jiazhan Feng, Ruochen Xu, Junheng Hao, Hiteshi Sharma, Yelong Shen, Dongyan Zhao, Weizhu Chen.* [[abs](https://arxiv.org/abs/2311.06158)], 2023.11
+
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
