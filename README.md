@@ -597,6 +597,10 @@ Data statistics of these resources:
 
     *Jiazhan Feng, Ruochen Xu, Junheng Hao, Hiteshi Sharma, Yelong Shen, Dongyan Zhao, Weizhu Chen.* [[abs](https://arxiv.org/abs/2311.06158)], 2023.11
 
+40. **GAIA: a benchmark for General AI Assistants.**
+
+    *Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom.* [[abs](https://arxiv.org/abs/2311.12983)], [[data](https://huggingface.co/gaia-benchmark)], 2023.12
+
 ### 2.5 Multimodal
 
 1. **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.**
@@ -682,6 +686,11 @@ Data statistics of these resources:
 21. **PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion.**
 
     *Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Duan Nan.* [[abs](https://arxiv.org/abs/2311.01767)], [[github](https://github.com/gydpku/PPTC)], 2023.11
+
+22. **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI.**
+
+    *Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen.* [[abs](https://arxiv.org/abs/2311.16502)], [[github](https://github.com/MMMU-Benchmark/MMMU)], 2023.11
+
 
 ### 2.6 Information Extraction
 
