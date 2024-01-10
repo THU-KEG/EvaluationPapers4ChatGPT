@@ -399,43 +399,46 @@ Data statistics of these resources:
  
     *Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen.* [[abs](https://arxiv.org/abs/2305.11747)], 2023.5
 
-15. **RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.**
+15. **WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia**
+   *Sina J. Semnani, Violet Z. Yao, Heidi C. Zhang, Monica S. Lam* [[abs]](https://arxiv.org/abs/2305.14292), [[github]](https://github.com/stanford-oval/WikiChat), 2023.5
+
+16. **RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.**
  
     *Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell, Mrinmaya Sachan.* [[abs](https://arxiv.org/abs/2305.13304)], [[github](https://github.com/aiwaves-cn/RecurrentGPT)], 2023.5
 
-16. **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge.**
+17. **PokemonChat: Auditing ChatGPT for Pokémon Universe Knowledge.**
  
     *Laura Cabello, Jiaang Li, Ilias Chalkidis.* [[abs](https://arxiv.org/abs/2306.03024)], 2023.6
 
-17. **Hybrid Long Document Summarization using C2F-FAR and ChatGPT: A Practical Study.**
+18. **Hybrid Long Document Summarization using C2F-FAR and ChatGPT: A Practical Study.**
  
     *Guang Lu, Sylvia B. Larcher, Tu Tran.* [[abs](https://arxiv.org/abs/2306.01169)], 2023.6
 
-18. **Generative Job Recommendations with Large Language Model.**
+19. **Generative Job Recommendations with Large Language Model.**
  
     *Zhi Zheng, Zhaopeng Qiu, Xiao Hu, Likang Wu, Hengshu Zhu, Hui Xiong.* [[abs](https://arxiv.org/abs/2307.02157)], 2023.7
 
-19. **Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews.**
+20. **Assessing the Ability of ChatGPT to Screen Articles for Systematic Reviews.**
  
     *Eugene Syriani, Istvan David, Gauransh Kumar.* [[abs](https://arxiv.org/abs/2307.06464)], 2023.7
 
-20. **L-Eval: Instituting Standardized Evaluation for Long Context Language Models.**
+21. **L-Eval: Instituting Standardized Evaluation for Long Context Language Models.**
  
     *Chenxin An, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu.* [[abs](https://arxiv.org/abs/2307.11088)], [[github](https://github.com/OpenLMLab/LEval)], 2023.7
 
-21. **LLM-Rec: Personalized Recommendation via Prompting Large Language Models.**
+22. **LLM-Rec: Personalized Recommendation via Prompting Large Language Models.**
  
     *Hanjia Lyu, Song Jiang, Hanqing Zeng, Yinglong Xia, Jiebo Luo.* [[abs](https://arxiv.org/abs/2307.15780)], 2023.7
 
-22. **LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding.**
+23. **LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding.**
  
     *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li.* [[abs](https://arxiv.org/abs/2308.14508)], [[github](https://github.com/THUDM/LongBench)], 2023.8
 
-23. **Can Large Language Models Understand Real-World Complex Instructions?**
+24. **Can Large Language Models Understand Real-World Complex Instructions?**
  
     *Qianyu He, Jie Zeng, Wenhao Huang, Lina Chen, Jin Xiao, Qianxi He, Xunzhe Zhou, Lida Chen, Xintao Wang, Yuncheng Huang, Haoning Ye, Zihan Li, Shisong Chen, Yikai Zhang, Zhouhong Gu, Jiaqing Liang, Yanghua Xiao.* [[abs](https://arxiv.org/abs/2309.09150)],[[github](https://github.com/Abbey4799/CELLO)] 2023.9
 
-24. **S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models.**
+25. **S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models.**
  
     *Fangyu Lei, Qian Liu, Yiming Huang, Shizhu He, Jun Zhao, Kang Liu.* [[abs](https://arxiv.org/abs/2310.15147)],[[github](https://github.com/lfy79001/S3Eval)] 2023.10
 
