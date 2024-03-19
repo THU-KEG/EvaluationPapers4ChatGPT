@@ -694,6 +694,9 @@ Data statistics of these resources:
 
     *Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen.* [[abs](https://arxiv.org/abs/2311.16502)], [[github](https://github.com/MMMU-Benchmark/MMMU)], 2023.11
 
+23. **HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models.**
+
+    *Tianrui Guan\*, Fuxiao Liu\*, Xiyang Wu, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou.* [[abs](https://arxiv.org/abs/2310.14566)], [[github](https://github.com/tianyi-lab/HallusionBench)], 2023.10
 
 ### 2.6 Information Extraction
 
